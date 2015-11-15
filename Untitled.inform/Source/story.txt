@@ -13,6 +13,7 @@ Daybreak was just a few hours away. I stared at the crumpled remains of my car, 
 Include Basic Screen Effects by Emily Short.
 Include Threaded Conversation by Chris Conley.
 [FIXME Exit Lister is broken Include Exit Lister by Gavin Lambert.]
+Include Exit Lister by Gavin Lambert.
 Include Menus by Emily Short.
 Include Glulx Text Effects by Emily Short.
 Include List Control by Eric Eve.

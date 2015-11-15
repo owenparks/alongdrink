@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x1056f0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x7e90d0" />
+  <item nodeId="node-0x1056f0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Untitled
+An Interactive Fiction by Author
+Release 1 / Serial number 151020 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="39">NO</temporary>
+    <children>
+      <child nodeId="node-0x7e90d0" />
+      <child nodeId="node-0x3db550" />
+    </children>
+  </item>
+  <item nodeId="node-0x3db550">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x7256f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7256f0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3a9620" />
+    </children>
+  </item>
+  <item nodeId="node-0x3a9620">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3db9b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3db9b0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x7de730" />
+    </children>
+  </item>
+  <item nodeId="node-0x7de730">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x72b040" />
+    </children>
+  </item>
+  <item nodeId="node-0x72b040">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5251a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5251a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3da0a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3da0a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5d0d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x5d0d90">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x18cdc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x18cdc0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x1d8e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x1d8e10">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x7dad60" />
+    </children>
+  </item>
+  <item nodeId="node-0x7dad60">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5eae50" />
+    </children>
+  </item>
+  <item nodeId="node-0x5eae50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x18508c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x18508c20">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x185006a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x185006a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x18505e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x18505e30">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x18505920" />
+    </children>
+  </item>
+  <item nodeId="node-0x18505920">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3e5920" />
+    </children>
+  </item>
+  <item nodeId="node-0x3e5920">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3e5050" />
+    </children>
+  </item>
+  <item nodeId="node-0x3e5050">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5f7690" />
+    </children>
+  </item>
+  <item nodeId="node-0x5f7690">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x7e76a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7e76a0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3e1480" />
+    </children>
+  </item>
+  <item nodeId="node-0x3e1480">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3e6020" />
+    </children>
+  </item>
+  <item nodeId="node-0x3e6020">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3ea990" />
+    </children>
+  </item>
+  <item nodeId="node-0x3ea990">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x1db550" />
+    </children>
+  </item>
+  <item nodeId="node-0x1db550">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5b1070" />
+    </children>
+  </item>
+  <item nodeId="node-0x5b1070">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x1deaa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1deaa0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3ee140" />
+    </children>
+  </item>
+  <item nodeId="node-0x3ee140">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x1e57c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1e57c0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f3ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f3ef0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f4f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f4f50">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5d8390" />
+    </children>
+  </item>
+  <item nodeId="node-0x5d8390">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f8830" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f8830">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x71dfc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x71dfc0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x5f9bb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x5f9bb0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x1850cc80" />
+    </children>
+  </item>
+  <item nodeId="node-0x1850cc80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+    <children>
+      <child nodeId="node-0x3eb590" />
+    </children>
+  </item>
+  <item nodeId="node-0x3eb590">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Example Location
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+  </item>
+  <item nodeId="node-0x7e90d0">
+    <command xml:space="preserve">buttfarts</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="38">YES</temporary>
+  </item>
+</Skein>

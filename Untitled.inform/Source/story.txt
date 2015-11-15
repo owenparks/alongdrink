@@ -1,0 +1,36 @@
+"A Long Drink" by Owen Parks.
+The story headline is "An Interactive Mystery".
+
+Release along with a website and interpreter and cover art.
+The Release number is 7.
+
+The story genre is "Mystery".
+
+The story description is "The first time I'd met Val was the day before yesterday, on my way out of the hospital. I'd been in a numb stupor for hours. There's no good way to take that kind of news.  She'd asked me out for a drink. I remember thinking there was something Old Hollywood glam about her, like Veronica Lake or Lauren Bacall. I figured she was trouble, but I had nothing to lose, and she looked like my kind of trouble. Turns out I didn't know the half of it.
+
+Daybreak was just a few hours away. I stared at the crumpled remains of my car, and beyond to the frozen lake below. I wondered if I'd ever see her again.".
+
+Include Basic Screen Effects by Emily Short.
+Include Threaded Conversation by Chris Conley.
+[FIXME Exit Lister is broken Include Exit Lister by Gavin Lambert.]
+Include Menus by Emily Short.
+Include Glulx Text Effects by Emily Short.
+Include List Control by Eric Eve.
+Include Automap by Mark Tilford.
+[TODO: Use default Exit Lister Version 3 and make all modifications here]
+[Made with Threaded Conversation Version 2/140602]
+
+[CHANGE THE FOLLOWING LINE FOR DEBUGGING]
+Debug_on is a truth state that varies. Debug_on is usually false.
+Logging_on is a truth state that varies. Logging_on is usually false.
+
+When play begins:
+	now the story viewpoint is first person singular;
+	now the story tense is past tense;
+	If logging_on is true:
+		try switching the story transcript on.
+	
+
+Test Room is a room.
+The player is in the Test Room.
+

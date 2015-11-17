@@ -1,0 +1,11 @@
+- Tentative organization:
+    - Character directory
+        - PC description
+        - NPC behavior/movement/descriptions
+    - Scene
+        - Scene begins/ends logic, done as a sort of preamble/postamble contract
+        - Part of this should be changing the description or behavior of existing characters
+            - Optionally, every scene could simply use a new NPC character object
+        - Every scene should make explicit its assumptions about game state, if any
+        - NPC conversation for that scene.
+    

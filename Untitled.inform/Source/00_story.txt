@@ -1,8 +1,9 @@
 "A Long Drink" by Owen Parks.
+
 The story headline is "An Interactive Mystery".
 
 Release along with a website and interpreter and cover art.
-The Release number is 7.
+The Release number is 8.
 
 The story genre is "Mystery".
 
@@ -10,16 +11,27 @@ The story description is "The first time I'd met Val was the day before yesterda
 
 Daybreak was just a few hours away. I stared at the crumpled remains of my car, and beyond to the frozen lake below. I wondered if I'd ever see her again.".
 
+[========= Extensions ==============]
 Include Basic Screen Effects by Emily Short.
-Include Threaded Conversation by Chris Conley.
-[FIXME Exit Lister is broken Include Exit Lister by Gavin Lambert.]
-Include Exit Lister by Gavin Lambert.
-Include Menus by Emily Short.
 Include Glulx Text Effects by Emily Short.
+
+Include Threaded Conversation by Chris Conley.
+[Made with Threaded Conversation Version 2/140602]
+Include Menus by Emily Short.
+
+Include Exit Lister by Gavin Lambert.
 Include List Control by Eric Eve.
 Include Automap by Mark Tilford.
-[TODO: Use default Exit Lister Version 3 and make all modifications here]
-[Made with Threaded Conversation Version 2/140602]
+
+[======= Extension Overrides ========]
+This is the custom exit listing rule:
+	let exits be the number of exit-listable directions;
+	if exits is 0, say "[We] [can see] no obvious exits." (A);
+	otherwise say "[list of exit-listable directions]." (B).
+
+The custom exit listing rule substitutes for the standard exit listing rule.
+
+[====== Debugging and Play Start =====]
 
 [CHANGE THE FOLLOWING LINE FOR DEBUGGING]
 Debug_on is a truth state that varies. Debug_on is usually false.
@@ -31,7 +43,3 @@ When play begins:
 	If logging_on is true:
 		try switching the story transcript on.
 	
-
-Test Room is a room.
-The player is in the Test Room.
-

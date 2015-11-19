@@ -1,22 +1,47 @@
 import subprocess
-from subprocess import Popen, PIPE, STDOUT
+from subprocess import check_output, Popen, PIPE, STDOUT
 
 PROJECTNAME = "Untitled" #TODO: Change this to an environment variable
 CRITPATH = """
+north
+north
+stop
+\n
 """
 # This stuff doesn't have to be here, it can be outlined in the game itself via "test critpath with <commands>"
 # when building complex paths and making fuzz tests, this may be what I eventually want to do
 
-def run(script):
-    p = Popen(['interpreter/glulxe/glulxe', '%s.inform/Build/output.gblorb' % PROJECTNAME], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
-    return p.communicate(input=script)[0].rstrip()
+def assertWin(script):
+    assert "*** YOU WIN ***" in script
+
+class Playthrough(object):
+    def __init__(self, script):
+        self.script = script
+        self.callbacks = []
+
+    def register(self, assertFunc):
+        self.callbacks.append(assertFunc)
+
+    def go(self):
+        playthrough = self.run(self.script)
+        print(playthrough)
+        for callback in self.callbacks:
+            callback(playthrough)
+
+    def run(self, script):
+        # Runs the game with script and returns the full text of the playthrough
+        p = Popen(['interpreter/glulxe/glulxe', '%s.inform/Build/output.gblorb' % PROJECTNAME], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
+        return p.communicate(input=script)[0].rstrip()
 
 def test_criticalpath():
-    pass
+    p = Playthrough(CRITPATH)
+    p.register(assertWin)
+    p.go()
+    #assert False
+    #pass
 
 if __name__ == "__main__":
     test_criticalpath()
-
 
 # TODO:
 """

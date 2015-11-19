@@ -24,14 +24,6 @@ Include List Control by Eric Eve.
 Include Automap by Mark Tilford.
 
 [======= Extension Overrides ========]
-[ I don't think I'll be using Exit Listing for the moment
-This is the custom exit listing rule:
-	let exits be the number of exit-listable directions;
-	if exits is 0, say "[We] [can see] no obvious exits." (A);
-	otherwise say "[list of exit-listable directions]." (B).
-
-The custom exit listing rule substitutes for the standard exit listing rule.
-]
 
 [====== Debugging and Play Start =====]
 

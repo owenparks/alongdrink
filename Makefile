@@ -35,7 +35,7 @@ i7compile:
 	$(I7_COMPILER) -c $(PROJECT_NAME).inform 
 
 critpathtest: i7compile
-	py.test tests/test.py
+	py.test -s tests/test.py
 
 all: interpreter extensions story i7compile critpathtest
 

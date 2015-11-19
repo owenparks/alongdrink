@@ -1,3 +1,5 @@
+- Use some kind of exit lister, just don't manually list it for each turn
+
 - Tentative organization:
     - Character directory
         - PC description

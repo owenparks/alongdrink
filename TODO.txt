@@ -1,4 +1,11 @@
-- Use some kind of exit lister, just don't manually list it for each turn
+- Change the room to upturned_car
+- Change the scene
+- Rework the "stop" and "brake" verbs, simplify to any command translating to go down.
+- Remove the room entirely with the scene change, change geography to prevent player escape?
+
+- Test making sure the player cannot leave while in a room
+
+- Debugging command to get the location of the player
 
 - Tentative organization:
     - Character directory

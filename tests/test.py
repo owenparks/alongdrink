@@ -5,22 +5,37 @@ PROJECTNAME = "Untitled" #TODO: Change this to an environment variable
 CRITPATH = """
 north
 north
-stop
-\n
+down
 """
 # This stuff doesn't have to be here, it can be outlined in the game itself via "test critpath with <commands>"
 # when building complex paths and making fuzz tests, this may be what I eventually want to do
 
-def assertWin(script):
-    assert "*** YOU WIN ***" in script
+# TODO: upon running all the callbacks, we can consume the script to deal with duplicates?
+
+class ExpectTest(object):
+    input_text = ""
+
+    @classmethod
+    def expect(cls, script):
+        # Override this with a the assert function for verifying the result
+        raise NotImplementedError
+
+class WinTest(ExpectTest):
+    input_text = ""
+
+    @classmethod
+    def expect(cls, script):
+        assert "*** The End ***" in script
 
 class Playthrough(object):
     def __init__(self, script):
         self.script = script
+        self.playthrough = ""
         self.callbacks = []
 
-    def register(self, assertFunc):
-        self.callbacks.append(assertFunc)
+    def register(self, testclass):
+        self.script += testclass.input_text
+        self.callbacks.append(testclass.expect)
 
     def go(self):
         playthrough = self.run(self.script)
@@ -35,7 +50,7 @@ class Playthrough(object):
 
 def test_criticalpath():
     p = Playthrough(CRITPATH)
-    p.register(assertWin)
+    p.register(WinTest)
     p.go()
     #assert False
     #pass

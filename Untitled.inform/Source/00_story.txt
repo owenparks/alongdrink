@@ -15,7 +15,7 @@ Daybreak was just a few hours away. I stared at the crumpled remains of my car, 
 Include Basic Screen Effects by Emily Short.
 Include Glulx Text Effects by Emily Short.
 
-Include Threaded Conversation by Chris Conley.
+[Include Threaded Conversation by Chris Conley.]
 [Made with Threaded Conversation Version 2/140602]
 Include Menus by Emily Short.
 

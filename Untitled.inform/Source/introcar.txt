@@ -52,11 +52,12 @@ Instead of going north when the player is in the Hairpin_Turn:
 Instead of going south when the player is in the Hairpin_Turn:
 	Try going down.
 
-After reading a command while the location is Hairpin_Turn:
+Instead of going down when the player is in the Hairpin_Turn:
+	end the story finally.
+
+[After reading a command while the location is Hairpin_Turn:
+	[This is a bad way to do this since something has to happen with the command]
 	If the player's command matches "brake" or the player's command matches "stop":
 		say "I hit the brakes, but the car kept straight for the guardrail, slamming through, and going over.[paragraph break]The back end of the car lost traction and swung out wide, trying valiantly to chase the front like a powerslide in a car commercials. The right side of the car went over the edge of the cliff, momentum taking the rest of the car with it. In shock, my brain couldn't manage to tell my body to do more than grip the wheel uselessly as the car tumbled down the steep incline. I lost count of the rolls after three. The roof hit a tree, and I jerked upward against the seat belt. Snow from the branches overhead fell into a pile onto the passenger window from the impact. I heard it thud, and the brief glimpse of moonlight was snuffed out.[paragraph break]";
-		say "(press any key)";
-		wait for any key;
-		[now the player is in the upturned_car;]
-		stop the action.
+		end the story finally.]
 

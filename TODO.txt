@@ -17,4 +17,8 @@
             - Optionally, every scene could simply use a new NPC character object
         - Every scene should make explicit its assumptions about game state, if any
         - NPC conversation for that scene.
+
+============
+
+- I woke up and realized I didn't need a shave. I'd probably never need a shave again. I half considered going through the motions anyway, but gave upon the idea as stupid.
     

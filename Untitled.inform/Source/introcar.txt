@@ -1,12 +1,15 @@
 Chapter 2 - Scene Mountain_Driving
 
+Mountain_Driving is a scene.
+
 [======== Introcar General =====]
 
 Introcar is a region.
 
 Road is a backdrop. Road is in the introcar. The description is "Snow was coming down in great, big flakes, landing right on top of the packed, slippery mess on the road.".
 Snow is a backdrop. Snow is in the introcar.
-Window is a backdrop. Window is in the introcar.
+Window is a backdrop. Window is in the introcar. Understand "windshield" as window.
+Car is a backdrop. Car is in the introcar. The description is "The beat up Toyota Corolla wasn't much to look at, but it got me from Point A to Point B without costing much in terms of repairs."
 Introcar_radio is a backdrop. Introcar_radio is in the introcar. The printed name is "radio". Understand "radio" as Introcar_radio. The description is "An aftermarket stereo the previous owner put in. The blue lights and shiny dials were stark against the shabby interior of the rest of the car."
 Instead of listening when the player is in the introcar:
 	say "News, traffic, and weather reports. Thankfully I was driving alone, most passengers I knew got tired of listening to it for hours on end.";
@@ -17,7 +20,7 @@ Instead of examining the window when the player is in the introcar:
 Instead of examining snow when the player is in the introcar:
 	Try examining the road.	
 
-After reading a command while the player is in the introcar:
+After reading a command while the player is in the introcar and the location is not Hairpin_Turn:
 	If the player's command matches "go":
 		try going north;
 		stop the action;
@@ -47,17 +50,8 @@ Instead of going south when the player is in the Mountain_Pass:
 
 Hairpin_Turn is a room in the introcar. The printed name of Hairpin_Turn is "Hairpin Turn". Hairpin_Turn is north of the Mountain_Pass. The description is "If I'd finished that last thought a few seconds earlier, I might've noticed the caution sign for the sharp turn, barely visible through the snow. The car was going too fast, and the guardrail came out of nowhere."
 
-Instead of going north when the player is in the Hairpin_Turn:
-	Try going down.
-Instead of going south when the player is in the Hairpin_Turn:
-	Try going down.
-
-Instead of going down when the player is in the Hairpin_Turn:
-	end the story finally.
-
-[After reading a command while the location is Hairpin_Turn:
-	[This is a bad way to do this since something has to happen with the command]
-	If the player's command matches "brake" or the player's command matches "stop":
-		say "I hit the brakes, but the car kept straight for the guardrail, slamming through, and going over.[paragraph break]The back end of the car lost traction and swung out wide, trying valiantly to chase the front like a powerslide in a car commercials. The right side of the car went over the edge of the cliff, momentum taking the rest of the car with it. In shock, my brain couldn't manage to tell my body to do more than grip the wheel uselessly as the car tumbled down the steep incline. I lost count of the rolls after three. The roof hit a tree, and I jerked upward against the seat belt. Snow from the branches overhead fell into a pile onto the passenger window from the impact. I heard it thud, and the brief glimpse of moonlight was snuffed out.[paragraph break]";
-		end the story finally.]
+After reading a command while the location is Hairpin_Turn:
+	replace the player's command with "look";
+	say "I hit the brakes, but the car kept straight for the guardrail, slamming through, and going over.[paragraph break]The back end of the car lost traction and swung out wide, trying valiantly to chase the front like a powerslide in a car commercials. The right side of the car went over the edge of the cliff, momentum taking the rest of the car with it. In shock, my brain couldn't manage to tell my body to do more than grip the wheel uselessly as the car tumbled down the steep incline. I lost count of the rolls after three. The roof hit a tree, and I jerked upward against the seat belt. Snow from the branches overhead fell into a pile onto the passenger window from the impact. I heard it thud, and the brief glimpse of moonlight was snuffed out.[paragraph break]";
+		end the story finally.
 

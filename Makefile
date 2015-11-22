@@ -34,8 +34,8 @@ story: cleanstory
 i7compile:
 	$(I7_COMPILER) -c $(PROJECT_NAME).inform 
 
-critpathtest: i7compile
-	py.test -s tests/test.py
+test: i7compile
+	py.test -s 
 
-all: interpreter extensions story i7compile critpathtest
+all: interpreter extensions story i7compile 
 

@@ -6,33 +6,41 @@
             <format>glulx</format>
         </identification>
         <bibliographic>
-            <title>Untitled</title>
-            <author>Anonymous</author>
-            <headline>An Interactive Fiction</headline>
-            <genre>Fiction</genre>
-            <firstpublished>2015</firstpublished>
+            <title>A Long Drink</title>
+            <author>Owen Parks</author>
+            <headline>An Interactive Mystery</headline>
+            <genre>Mystery</genre>
+            <firstpublished>2018</firstpublished>
+            <description>The first time I'd met Val was the day before yesterday, on my way out of the hospital. I'd been in a numb stupor for hours. There's no good way to take that kind of news. She'd asked me out for a drink. I remember thinking there was something Old Hollywood glam about her, like Veronica Lake or Lauren Bacall. I figured she was trouble, but I had nothing to lose, and she looked like my kind of trouble. Turns out I didn't know the half of it.<br/>Daybreak was just a few hours away. I stared at the crumpled remains of my car, and beyond to the frozen lake below. I wondered if I'd ever see her again.</description>
             <language>en</language>
             <group>Inform</group>
         </bibliographic>
+        <cover>
+            <format>png</format>
+            <height>768</height>
+            <width>1024</width>
+            <description>The cover art.</description>
+        </cover>
         <releases>
             <attached>
                 <release>
-                    <releasedate>2015-11-15</releasedate>
-                    <version>1</version>
+                    <releasedate>2018-02-24</releasedate>
+                    <version>8</version>
                     <compiler>Inform 7</compiler>
-                    <compilerversion>6L38</compilerversion>
+                    <compilerversion>6L02</compilerversion>
                 </release>
             </attached>
         </releases>
         <colophon>
             <generator>Inform 7</generator>
-            <generatorversion>6L38</generatorversion>
-            <originated>2015-11-15</originated>
+            <generatorversion>6L02</generatorversion>
+            <originated>2018-02-24</originated>
         </colophon>
         <glulx>
-            <serial>151115</serial>
-            <release>1</release>
-            <compiler>Inform 7 build 6L38</compiler>
+            <serial>180224</serial>
+            <release>8</release>
+            <compiler>Inform 7 build 6L02</compiler>
+            <coverpicture>1</coverpicture>
         </glulx>
     </story>
 </ifindex>

@@ -6,6 +6,10 @@ UNAME := $(shell uname)
 ifeq ($(UNAME), Darwin)
 	I7_COMPILER = ./i7.osx
 	I7_EXTENSION_DIR = ~/Library/Inform/Extensions/
+# Linux
+else ifeq ($(UNAME), Linux)
+	I7_COMPILER = ./i7.linux
+	I7_EXTENSION_DIR = ~/Inform/Extensions 
 endif
 
 # Needed because these targets are not actual files

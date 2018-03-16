@@ -1,9 +1,11 @@
 OSXINTERPRETER="interpreter/glulxe/glulxe"
+LINUXINTERPRETER="interpreter/glulxe/glulxe"
 
 platform='unknown'
 unamestr=`uname`
 if [[ "$unamestr" == 'Linux' ]]; then
    platform='linux'
+   interpreter=$LINUXINTERPRETER
 elif [[ "$unamestr" == 'Darwin' ]]; then
    platform='osx'
    interpreter=$OSXINTERPRETER

@@ -11,6 +11,10 @@ else ifeq ($(UNAME), Linux)
 	I7_COMPILER = ./i7.linux
 	I7_EXTENSION_DIR = ~/Inform/Extensions 
 endif
+ifeq ($(UNAME), Linux)
+	I7_COMPILER = i7
+	I7_EXTENSION_DIR = ~/Inform/Extensions/
+endif
 
 # Needed because these targets are not actual files
 .PHONY: clean cleanstory interpreter extensions story i7compile critpathtest all

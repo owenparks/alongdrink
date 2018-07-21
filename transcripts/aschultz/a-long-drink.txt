@@ -1,0 +1,4046 @@
+Start of a transcript of
+
+A Long Drink
+An Interactive Mystery by Owen Parks
+Release 7 / Serial number 150214 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) 
+Identification number: //615AD313-D26C-44F5-9110-1C79488431D3//
+Interpreter version 0.5.2 / VM 3.1.2 / Library serial number 080126
+Standard Rules version 3/120430 by Graham Nelson
+Threaded Conversation version 5/140601 by Chris Conley (modified from Threaded Conversation by Emily Short and based on Alabaster by Emily Short, et. al.)
+Exit Lister version 3 by Gavin Lambert
+List Control version 3 by Eric Eve
+Conversation Framework version 11 by Eric Eve
+Epistemology version 8 by Eric Eve
+
+>help
+Objective
+
+Val said we were going to spend the weekend at her friend's cabin in the mountains. Maybe it was childish or stubborn, trying to cling to my independence like this. I'd decided to drive myself, even through this weather.
+
+Clues
+
+
+
+
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>about
+A word from the author:
+This work would not have been possible without help from a great many people. Special thanks to my testers: FK, TF, KG, DO, caleb, inurashii, Sequitur, matt w, and busterwrites, and all the patient folks in #i7 on the IFMUD.
+This story has many edge cases. If you believe you have found a bug, please send an email to: alongdrink@beyondcoast.org
+
+Cover art by Dan Smith Licensed under Creative Commons By 2.0 Image at: https://flic.kr/p/pPkjHD License Terms at: https://creativecommons.org/licenses/by/2.0/ 
+
+Thanks for playing.
+>credits
+A word from the author:
+This work would not have been possible without help from a great many people. Special thanks to my testers: FK, TF, KG, DO, caleb, inurashii, Sequitur, matt w, and busterwrites, and all the patient folks in #i7 on the IFMUD.
+This story has many edge cases. If you believe you have found a bug, please send an email to: alongdrink@beyondcoast.org
+
+Cover art by Dan Smith Licensed under Creative Commons By 2.0 Image at: https://flic.kr/p/pPkjHD License Terms at: https://creativecommons.org/licenses/by/2.0/ 
+
+Thanks for playing.
+>l
+Mountain Road
+They say you shouldn't drive when you're angry. That was just one of a hundred pieces of good advice I was ignoring as I drove along the icy road to the chalet, my foot a little heavier on the gas than it needed to be.
+
+I'd had a long, promising career in homicide ahead of me, or so I kept telling myself, and it was all down the drain now. I had planned on a senior detective's desk being in the cards for me, at least. Maybe even quitting and going into private investigations. Well, I guessed I could still do that.
+
+Not six hours earlier, I'd turned in my badge and my gun and walked out, more or less the way I'd seen it in the movies. The captain was yelling his head off, couldn't figure out why a promising young detective like me would just up and quit. I honestly hoped he never did.
+
+I kept on driving north.
+
+(type "help" at any point for hints)
+
+>x me
+Clothes were a little wrinkled, but I wasn't used to having people to impress. Not much the worse for wear, considering what I'd been through.
+
+>z
+Time passed.
+
+>z
+Time passed.
+
+>z
+Time passed.
+
+>l
+Mountain Road
+They say you shouldn't drive when you're angry. That was just one of a hundred pieces of good advice I was ignoring as I drove along the icy road to the chalet, my foot a little heavier on the gas than it needed to be.
+
+I'd had a long, promising career in homicide ahead of me, or so I kept telling myself, and it was all down the drain now. I had planned on a senior detective's desk being in the cards for me, at least. Maybe even quitting and going into private investigations. Well, I guessed I could still do that.
+
+Not six hours earlier, I'd turned in my badge and my gun and walked out, more or less the way I'd seen it in the movies. The captain was yelling his head off, couldn't figure out why a promising young detective like me would just up and quit. I honestly hoped he never did.
+
+I kept on driving north.
+
+(type "help" at any point for hints)
+
+>w
+I couldn't go that way.
+
+>e
+I couldn't go that way.
+
+>s
+I couldn't go that way.
+
+>n
+
+Mountain Pass
+I had the radio on tuned to some news station-- truth be told, I already missed the chatter of the dispatch as I was driving. The traffic report had little bearing on my current locale, but the weather gave me some concern: a snowstorm coming up off the Great Lakes. Spending the weekend with a small crowd I barely knew wasn't my idea of a good time. Being cooped up with them the entire time due to weather seemed like a recipe for an epidemic of cabin fever.
+
+>; so technically there are rooms before the driveway
+I wasn't talking to anyone.
+
+>;in your trizbort map
+That noun did not make sense in this context.
+
+>w
+I couldn't go that way.
+
+>e
+I couldn't go that way.
+
+>z
+Time passed.
+
+>n
+
+Hairpin Turn
+If I'd finished that last thought a few seconds earlier, I might've noticed the caution sign for the sharp turn, barely visible through the snow. The car was going too fast, and the guardrail came out of nowhere.
+
+>; technically, if you wait, the car goes along, and you can't really stop
+I didn't have the chance to stop, and the car slammed through the guardrail, and went over the edge.
+
+
+The back end of the car lost traction and swung out wide, trying vainly to follow the front, just like one of those car commercials. Unfortunately, I was not a professional driver, nor was this a closed course, and the right side of the car went over the edge of the cliff, momentum then taking the rest of the car with it. In shock, my brain couldn't manage to tell my body to do more than grip the wheel uselessly as the car tumbled down the steep incline. I lost count of the rolls after three. The roof hit a tree, and I was jerked upward against the seat belt. Snow from the branches fell in a pile onto the passenger window from the impact. I heard a thud, snuffing out the brief glimpse of moonlight. Everything went black.
+
+(press any key)
+Upturned Car
+I wasn't sure how long I'd been out. Taking stock of my situation, I was surprised to find myself more or less unhurt, save for a dull ache in my left wrist where I'd tried to brace against the door. I took a few deep breaths, and tried to focus.
+
+The car was currently lying at the bottom of a cliff on its side. Above me, I could dimly see the light of the moon, mottled by the snow on the passenger side windows. The windshield in front of me showed nothing but evergreen forest, extending into the darkness.
+
+I was still strapped in; the seat belt made sure I stayed put. At least one thing in this car still knew how to do its job right.
+
+> open seat belt
+The seat belt held me firmly in place in what was now the bottom of the upturned_car. I wasn't going to be able to see or do much of anything until I unbuckled myself.
+
+>; upturned_car
+The seat belt held me firmly in place in what was now the bottom of the upturned_car. I wasn't going to be able to see or do much of anything until I unbuckled myself.
+
+>unbuckle
+I wrestled with the jammed seat belt for a moment, then managed to undo it, falling a few inches down against the driver door once the chest belt was free.
+
+>x me
+Clothes were a little wrinkled, but I wasn't used to having people to impress. Not much the worse for wear, considering what I'd been through.
+
+>l
+Upturned Car
+I wasn't sure how long I'd been out. Taking stock of my situation, I was surprised to find myself more or less unhurt, save for a dull ache in my left wrist where I'd tried to brace against the door. I took a few deep breaths, and tried to focus.
+
+The car was currently lying at the bottom of a cliff on its side. Above me, I could dimly see the light of the moon, mottled by the snow on the passenger side windows. The windshield in front of me showed nothing but evergreen forest, extending into the darkness.
+
+I crouched at the bottom of the car on the driver door, trying to figure the best way out.
+
+>open door
+Which do you mean, the driver door or the passenger door?
+
+>driver
+It's flat on the ground, no way that's happening.
+
+>; runon sentence? I'm being picky
+I wasn't talking to anyone.
+
+>open passenger
+Which do you mean, the passenger window or the passenger door?
+
+>; nice error message
+I couldn't see any such thing.
+
+>open passenger door
+There's too much snow on top. I try to push, but the weight keeps the door from opening.
+
+>open window
+The passenger window had a broken handle. I'd never bothered fixing it since I rarely had a passenger who would complain. Opening the driver window wouldn't do much good, given the position of the car.
+
+>break window
+Which do you mean, the driver window or the passenger window?
+
+>driver
+Violence wasn't the answer to this one.
+
+>break passenger window
+Violence wasn't the answer to this one.
+
+>l
+Upturned Car
+I wasn't sure how long I'd been out. Taking stock of my situation, I was surprised to find myself more or less unhurt, save for a dull ache in my left wrist where I'd tried to brace against the door. I took a few deep breaths, and tried to focus.
+
+The car was currently lying at the bottom of a cliff on its side. Above me, I could dimly see the light of the moon, mottled by the snow on the passenger side windows. The windshield in front of me showed nothing but evergreen forest, extending into the darkness.
+
+I crouched at the bottom of the car on the driver door, trying to figure the best way out.
+
+>x snow
+I couldn't see any such thing.
+
+>x me
+Clothes were a little wrinkled, but I wasn't used to having people to impress. Not much the worse for wear, considering what I'd been through.
+
+>w
+I couldn't go that way.
+
+>e
+I couldn't go that way.
+
+>n
+I couldn't go that way.
+
+>s
+I couldn't go that way.
+
+>l
+Upturned Car
+I wasn't sure how long I'd been out. Taking stock of my situation, I was surprised to find myself more or less unhurt, save for a dull ache in my left wrist where I'd tried to brace against the door. I took a few deep breaths, and tried to focus.
+
+The car was currently lying at the bottom of a cliff on its side. Above me, I could dimly see the light of the moon, mottled by the snow on the passenger side windows. The windshield in front of me showed nothing but evergreen forest, extending into the darkness.
+
+I crouched at the bottom of the car on the driver door, trying to figure the best way out.
+
+>break windshield
+I hit the windshield a few times, and could feel it start to come loose. A good solid kick ought to do it.
+
+>kick it
+Bracing my back against the sideways seat, I gave the windshield a couple of sharp kicks. I felt the seal start to give, and then it dislodged entirely from the frame, making an exit. It fell out onto the snow with a muffled crunch, and the bitter wind started to blow into the old car. I pulled my coat tight around me, and stepped out into the forest.
+
+(press any key)
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+>; ok, that makes sense
+You seem to want to talk to someone, but I can't see whom.
+
+>w
+
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+The second I turned my head to look down the lane, I saw a pair of headlights approach. A black Mercedes pulled up and came to a stop just in front of me. The timing was a little unnerving. The passenger door opened, and I saw Val looking out at me.
+
+"Get in," she said.
+
+>undo
+Bottom of Cliff
+[Previous turn undone.]
+
+>e
+I couldn't go that way.
+
+>n
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>undo
+Bottom of Cliff
+[Previous turn undone.]
+
+>n
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>n
+
+Dense Forest
+I walked for what must have been half an hour through the pines, which kept getting denser. In the light just before dawn, I saw the evergreen foliage come to a sudden stop ahead. I was starting to get seriously worried.
+
+>n
+
+Precipice
+The forest abruptly ended in the edge of a cliff, overlooking a valley and several lakes hundreds of feet below.
+
+
+
+    *** The north end of the ridge had a stunning view of the eastern valley, and unfortunately the horizon, too. Through what must have been some quirk of fate, I never made it to the chalet. I smiled sardonically at the sunrise, searing like a fire newly kindled, even on that cold, windswept ridge. I guess I'd been spared what would have no doubt been an interminable weekend.
+
+As far as last sights went, I supposed it could have been worse. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> undo
+Dense Forest
+[Previous turn undone.]
+
+>undo
+Mountain Ridge
+[Previous turn undone.]
+
+>undo
+Bottom of Cliff
+[Previous turn undone.]
+
+>; ok good cluing of alt ending
+That noun did not make sense in this context.
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+I was miles from nowhere, and the cherry on top was that my cell phone was broken. It had stopped snowing for the moment. The night sky was starting to lighten, I figured I had an hour before sunrise.
+
+Fucking swell.
+
+>smell
+I smelled nothing unexpected.
+
+>; ah the game theme
+That noun did not make sense in this context.
+
+>e
+I couldn't go that way.
+
+>w
+
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+The second I turned my head to look down the lane, I saw a pair of headlights approach. A black Mercedes pulled up and came to a stop just in front of me. The timing was a little unnerving. The passenger door opened, and I saw Val looking out at me.
+
+"Get in," she said.
+
+>enter
+I got into the Mercedes.
+
+Sedan
+The inside of the Mercedes was yards of brushed metal and hand-stitched leather. It still smelled new.
+
+Val drove the car, her eyes looking miles beyond the road, the mountains, and the horizon.
+
+>z
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val got out of the car, and took her bag out of the trunk.
+
+"Come on, I'll introduce you to Alan," she said, walking up the drive.
+
+>; ah the driveway
+That noun did not make sense in this context.
+
+>save
+Ok.
+
+>u
+I couldn't go that way.
+
+>in
+I couldn't go that way.
+
+>e
+
+Front Porch
+Steps led up from the gravel driveway to the porch. Narrow unpainted wood planks extended the length of the house, along with windows that looked into rooms at the front. Through them, I saw blinds, and a glint of something metallic, like a shutter.
+
+The front door stood open.
+
+There was something about the door that looked like a B&E job.
+
+>; breaking and entering?
+That noun did not make sense in this context.
+
+>verbs
+That noun did not make sense in this context.
+
+>xyzzy
+That noun did not make sense in this context.
+
+>l
+Front Porch
+Steps led up from the gravel driveway to the porch. Narrow unpainted wood planks extended the length of the house, along with windows that looked into rooms at the front. Through them, I saw blinds, and a glint of something metallic, like a shutter.
+
+The front door stood open.
+
+There was something about the door that looked like a B&E job.
+
+>x door
+A large wooden door, painted white as a preacher's picket fence. It didn't have a window or peephole. Something seemed odd about the lock, like it had been damaged. There was splintered wood on the side of the doorframe where someone had apparently forced the door open.
+
+>x lock
+I could see obvious scratch marks at the deadbolt that could've been left by an intruder using a lockpick. Judging by the deep gouges in the doorframe, the attempt hadn't been successful.
+
+>x wood
+I couldn't see any such thing.
+
+>x deadbolt
+I couldn't see any such thing.
+
+>x gouges
+I couldn't see any such thing.
+
+>x doorfram
+I couldn't see any such thing.
+
+>x doorframe
+A large wooden door, painted white as a preacher's picket fence. It didn't have a window or peephole. Something seemed odd about the lock, like it had been damaged. There was splintered wood on the side of the doorframe where someone had apparently forced the door open.
+
+>x frame
+I couldn't see any such thing.
+
+>open door
+That was already open.
+
+>close it
+I closed the front door.
+
+>e
+(first opening the front door)
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences.
+
+A layer of snow had blown in through the open doorway, and was slowly melting into a puddle on the enormous Persian rug. 
+
+The front door stood open.
+
+I could also see Val here.
+
+>; nitpicky, no reason to close it but...
+You seem to want to talk to someone, but I can't see whom.
+
+>talk to val
+I started to talk to her, but she walked further into the house, apparently looking for the owner.
+
+>undo
+Foyer
+[Previous turn undone.]
+
+>close door
+I closed the front door.
+
+>x rug
+I couldn't see any such thing.
+
+>l
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences.
+
+A layer of snow had blown in through the open doorway, and was slowly melting into a puddle on the enormous Persian rug. 
+
+
+I could also see Val here.
+
+>x snow
+Some snow sat on top of the rug. It wasn't in heaps in footprint shapes, as thought it had fallen off of boots. It was in a thin, even layer, like the door had been open for some time, and the wind had blown it in as the snow fell outside.
+
+>eat snow
+That was plainly inedible.
+
+>; aww
+That noun did not make sense in this context.
+
+>x picture
+I couldn't see any such thing.
+
+>get all
+There are none at all available!
+
+>l
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences.
+
+A layer of snow had blown in through the open doorway, and was slowly melting into a puddle on the enormous Persian rug. 
+
+
+I could also see Val here.
+
+>z
+Time passed.
+
+>e
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "God Rest Ye Merry, Gentlemen" warbling from what sounded like an old radio.
+
+>undo
+Foyer
+[Previous turn undone.]
+
+>talk to val
+I started to talk to her, but she walked further into the house, apparently looking for the owner.
+
+>l
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences.
+
+A layer of snow had blown in through the open doorway, and was slowly melting into a puddle on the enormous Persian rug. 
+
+
+>n
+I couldn't go that way.
+
+>s
+I couldn't go that way.
+
+>e
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "We Three Kings" warbling from what sounded like an old radio.
+
+>save
+Ok.
+
+>score
+There was no score in this story.
+
+>i
+I was carrying:
+  a cell phone
+
+>x phone
+A smartphone a few hardware revisions back. The screen had shattered due to an impact, rendering it unusable.
+
+The cell phone was switched off.
+
+>switch phone
+The screen was cracked to hell. No way could I make a call on it now.
+
+>l
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "We Three Kings" warbling from what sounded like an old radio.
+
+>exits
+east, west to the Foyer and up
+>help
+Objective
+
+I'd been around long enough to know something was wrong with this scene: front door open, no one answering. We had to find Val's friend, wherever he was.
+
+Clues
+
+
+
+lock
+
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>help lock
+I only understood you as far as wanting to help.
+
+>clues
+Clues
+
+
+
+lock
+
+
+>lock
+(the cell phone with the cell phone)
+That didn't seem to be something I could lock.
+
+>clues lock
+I only understood you as far as wanting to clues.
+
+>l
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "Angels We Have Heard on High" warbling from what sounded like an old radio.
+
+>help
+Objective
+
+I'd been around long enough to know something was wrong with this scene: front door open, no one answering. We had to find Val's friend, wherever he was.
+
+Clues
+
+
+
+lock
+
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "We Three Kings" warbling from what sounded like an old radio.
+
+>x rug
+I looked at the plush carpet, checking it for footprints. A shoe size can be pretty damn circumstantial, but at this point, I needed every clue I could get.
+
+I didn't see one, it was just as pristine as the drifts of snow in the valley below.
+
+But something caught my eye, something small and sharp, glinting in the light of the room as I walked the perimeter of the rug. A shard of glass by the edge of the sofa.
+
+>roll rug
+That noun did not make sense in this context.
+
+>get glass
+Taken.
+
+>x it
+A broken shard of glass. The ruined facets of vintage crystal reflected light like a cheap engagement ring.
+
+I crouched down for a closer look and realized it had come from a shattered wineglass, the pieces obscured by the sofa.
+
+>l
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "Angels We Have Heard on High" warbling from what sounded like an old radio.
+
+I could see a broken wineglass here.
+
+>x all
+You can't use multiple objects with that verb.
+
+>x sofa
+A spacious beige sofa big enough to lie down on. It seems a little unnaturally suited to the space, like it was picked out of a catalog by a decorator to sit in a showroom. Despite that, it has clearly seen a lot of use.
+
+For instance, a conspicuous dark red stain on top of one of the cushions.
+
+>x stain
+An oblong red spot about the size of a pear stood out from the beige couch. From the color, it looked like wine. As I looked at it, I realized something on the floor was reflecting firelight back at me.
+
+>x something
+I couldn't see any such thing.
+
+>x floor
+I looked at the plush carpet, checking it for footprints. A shoe size can be pretty damn circumstantial, but at this point, I needed every clue I could get.
+
+I didn't see one, it was just as pristine as the drifts of snow in the valley below.
+
+But something caught my eye, something small and sharp, glinting in the light of the room as I walked the perimeter of the rug. A shard of glass by the edge of the sofa.
+
+>get glass
+Which do you mean, the glass shard or the broken wineglass?
+
+>broken
+I couldn't see any such thing.
+
+>get shard
+Taken.
+
+>i
+I was carrying:
+  a glass shard
+  a cell phone
+
+>x floor
+I looked at the plush carpet, checking it for footprints. A shoe size can be pretty damn circumstantial, but at this point, I needed every clue I could get.
+
+I didn't see one, it was just as pristine as the drifts of snow in the valley below.
+
+But something caught my eye, something small and sharp, glinting in the light of the room as I walked the perimeter of the rug. A shard of glass by the edge of the sofa.
+
+>get shard
+I already had that.
+
+>get wineglass
+I couldn't see any such thing.
+
+>l
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "O Come, All Ye Faithful" warbling from what sounded like an old radio.
+
+I could see a broken wineglass here.
+
+>; ok double examine
+That noun did not make sense in this context.
+
+>
+I beg your pardon?
+
+>x firepalce
+I couldn't see any such thing.
+
+>x fireplace
+A fireplace big enough for a country manor house. Flames crackled inside, the logs slowly burning into hot coals.
+
+>enter it
+That was not something I could enter.
+
+>l
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade. Coming from somewhere up there I heard "We Three Kings" warbling from what sounded like an old radio.
+
+I could see a broken wineglass here.
+
+>get logs
+That was hardly portable.
+
+>; logs can be plural named
+That noun did not make sense in this context.
+
+>;also a neat trick
+I wasn't talking to anyone.
+
+>;Rule for printing a parser error when the latest parser error is the I beg your pardon error:
+I wasn't talking to anyone.
+
+>x stain
+An oblong red spot about the size of a pear stood out from the beige couch. From the color, it looked like wine. 
+
+>drink stain
+There was nothing suitable to drink here.
+
+>x beams
+I saw nothing special about the beams.
+
+>u
+
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+An antique wooden radio sat on the table, playing Christmas carols.
+
+I could also see a bottle of wine and a wineglass here.
+
+>x wine
+(the bottle of wine)
+A Bordeaux from back in 2001, uncorked and almost empty. Expensive bottle to be drinking alone.
+
+>x glass
+A broken shard of glass. The ruined facets of vintage crystal reflected light like a cheap engagement ring.
+
+I crouched down for a closer look and realized it had come from a shattered wineglass, the pieces obscured by the sofa.
+
+>x wineglass
+A crystal wineglass, empty but for a few drops of red wine at the bottom.
+
+>drink crystal
+I couldn't see any such thing.
+
+>x wineglass
+A crystal wineglass, empty but for a few drops of red wine at the bottom.
+
+>drink it
+There was nothing suitable to drink here.
+
+>l
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+An antique wooden radio sat on the table, playing Christmas carols.
+
+I could also see a bottle of wine and a wineglass here.
+
+>x radio
+It was a vintage vacuum tube radio, maybe 1920 or 1930 if I had to guess, though the polished dark wood didn't look like it'd aged a day.
+
+The radio was switched on.
+
+>search it
+I found nothing of interest.
+
+>switch it
+I switched the radio off.
+
+>talk to man
+The body did not respond.
+
+>x him
+I'm not sure what 'him' refers to.
+
+>x knife
+It looked like a silver letter opener with an ivory handle. A monogram on the end read "AHB". It didn't look that long or that sharp, but someone had made a pretty clean business of stabbing Bowden with it. Or maybe they'd just gotten lucky. It happens like that sometimes.
+
+>get knife
+I made a point of not disturbing crime scenes any more than I had to. The only thing pulling the knife would tell me was how long a blade it had. The dead man and I both already knew the answer to that: long enough.
+
+>x man
+He looked like he was fifty, but something about his well-preserved look told me that he was probably sixty. It wasn't that he was in good shape-- I doubted he'd seen much real exercise since he was in high school, and maybe not even then. He struck me as a debate team sort of guy. I could tell he didn't get out much. His fingers were broad, but smooth. His hands had no calluses and no rings, but he wore a Rolex watch. It wasn't fake, and had cost probably three times what my car was worth before I'd driven it off a cliff a few hours ago.
+
+Val came up the stairs, freezing the second she saw the body. Her eyes narrowed, and I could tell her mind was racing, the first time I'd seen anything but placid boredom on her face. Half of me was relieved to know that there was something in this world that could perturb her. The other half was unnerved by it. She looked away and hitched the poker face back on pretty quick.
+
+Val nodded at the poor stiff and said, "Meet Professor Alan Bowden, our host this weekend."
+(press any key)
+>x bowden
+I couldn't see any such thing.
+
+>;To set the/-- pronoun him to (O - an object): (- LanguagePronouns-->6 = {O}; -).
+That noun did not make sense in this context.
+
+>talk to val
+She stood there in stunned silence. There'd be time for questions later.
+
+>ask val about bowden
+She stood there in stunned silence. There'd be time for questions later.
+
+>; good rejects
+That noun did not make sense in this context.
+
+>l
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+Val stood to my left, looking impassively at the body of Alan Bowden.
+
+An antique wooden radio sat on the table.
+
+I could also see a bottle of wine and a wineglass here.
+
+>x val
+She wore a belted black raincoat with straight shoulders, which covered all of her except for the bottom of a long pencil skirt. She hadn't bothered taking her driving gloves off. I couldn't put my finger on it, but there was something stiffly formal and practiced about the way she moved.
+
+Her eyes rested on what was left of the professor, her expression unreadable.
+
+>x bowden
+I couldn't see any such thing.
+
+>x left
+I couldn't see any such thing.
+
+>x gloves
+I couldn't see any such thing.
+
+>x cardigan
+I couldn't see any such thing.
+
+>x knife
+It looked like a silver letter opener with an ivory handle. A monogram on the end read "AHB". It didn't look that long or that sharp, but someone had made a pretty clean business of stabbing Bowden with it. Or maybe they'd just gotten lucky. It happens like that sometimes.
+
+>l
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+Val stood to my left, looking impassively at the body of Alan Bowden.
+
+An antique wooden radio sat on the table.
+
+I could also see a bottle of wine and a wineglass here.
+
+>x books
+I saw nothing special about the books.
+
+>read books
+>; oops! Need to fil in
+I wasn't talking to anyone right then.
+
+>x chairs
+I wasn't talking to anyone.
+
+>d
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>e
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+I heard the front door open, and the sound of voices from the foyer. It closed a minute later.
+
+
+(press any key)
+>w
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>open balustrade
+It wasn't something I could open.
+
+>x it
+I saw nothing special about the balustrade.
+
+>climb staircase
+I don't think much is to be achieved by that.
+
+>; bleah, synonyms everyone gets caught on
+You seem to want to talk to someone, but I can't see whom.
+
+>e
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>x paintings
+I couldn't see any such thing.
+
+>x painting
+An oil painting of a crowded scene, bright colors jumping out from shadows and mottled light coming down from above. Everyone in the painting seemed pretty upset, though it wasn't really apparent why. It looked like it was done in the Romantic style, but I'm no art historian. It could just as easily have been the Old Testament as Paradise Lost.
+
+>; synonyms
+That noun did not make sense in this context.
+
+>hint
+Objective
+
+It sounded like we weren't the only guests who had arrived a little late.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>; ah neat, things fill up
+You seem to want to talk to someone, but I can't see whom.
+
+>; problem is some people don't use the hints
+That noun did not make sense in this context.
+
+>; so they won't think to see how many clues
+I wasn't talking to anyone.
+
+>w
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>u
+
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+An antique wooden radio sat on the table.
+
+I could also see a bottle of wine and a wineglass here.
+
+>talk to val
+I wasn't talking to anyone right then.
+
+>l
+I wasn't talking to anyone.
+
+>x val
+I couldn't see any such thing.
+
+>s
+I couldn't go that way.
+
+>d
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>w
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+Three men stood on the rug, their coats and pant cuffs damp with snow. Val made introductions all around, as if nothing was wrong. 
+
+I studied their faces carefully. If one of them knew about Alan upstairs, they weren't letting on. The three men were overdressed for vacation, as rich men often are. But somehow, they were oddly mismatched. I doubted that they came here together.
+
+
+
+I could also see Nathan, Scott and Jan here.
+
+>talk to nathan
+I approached him and got a condescending look for my trouble. He clearly didn't want to speak to me. At least, not until he had a reason to.
+
+>talk to scott
+He put a cigarette in his mouth, patted a few pockets for a lighter, before apparently thinking better of the whole idea, and putting it away. I thought I'd talk to him later when he was a little less jittery.
+
+>talk to jan
+He didn't seem to be in a talking mood. He kept tapping his foot and looking at the door like he had somewhere to be, even though we both knew he wasn't leaving soon. None of us were.
+
+>help
+Objective
+
+I didn't know who these guys were, but I didn't like the look of them. Either they were in the same boat as Val and I, or one of them might have been related to the murder.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>topics
+I wasn't talking to anyone.
+
+>stop talking
+Whom do you want to stop talking to?
+
+>jan
+I wasn't talking to Jan.
+
+>e
+Val waited a minute for the conversations the three were having to die down.
+(Press a key)She folded her arms across her chest and took a deep breath quiet enough that only I heard it.
+
+"Gentlemen, we have a problem. Alan's dead. We found him upstairs, stabbed."
+
+A stunned silence followed. When it was clear no one was going to break it, she went on. "I'm going to call it in to the New York Magistrate's and find out who isn't on vacation that they can send over." She lifted a hand, exposing her pale wrist enough to read the face of her watch. "It's going to be at least six hours before they can send someone, and they'll have to make it through what's left of the winter storm. Until we can figure out exactly what happened and who's responsible, I suggest we all stay in our rooms. My associate here has some experience with police investigation, he can do the basics until the officials show up."
+
+Nathaniel seemed to bristle at this. "Hang on a minute, wait in our rooms? Am I to take it you're presuming us suspects? How do I know you and your friend didn't just kill Alan?"
+
+Val shrugged and pointed at me. "It happens that my friend here is the only one of us with a solid alibi, unless I'm mistaken."
+
+The lack of a response indicated that she wasn't, which bothered me a little. The three picked up their bags and trundled down the hall, varying degrees of insulted, Jan called back in a raised voice. "You're making a big mistake. Don't you remember what happened at Lake Geneva in 1986? I think there's someone out there who got Alan, and now we're sitting ducks."
+
+He said it with false bravado, and I shouldn't have let the idea take root in my mind, but it did.
+(Press a key)
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>l
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+I could also see Val here.
+
+>talk to val
+With no more sound than a loud whisper, shutters slid down on the inside of every window in the house. They looked like opaque fabric window shades, but the heavy sound of the seal told me the core was probably metal. The light from outside went out as suddenly as if someone had thrown a curtain over the moon.
+
+(press any key)
+I could have asked about Alan, about the murder, about Nathaniel or what was in it for me.
+
+>ask about alan
+"How well did you know Alan?"
+
+"I knew him for probably ten years, we were only close for a handful of those. He wasn't perfect, but I knew him well enough that I feel like he deserved better than he got."
+
+I could have asked about the murder, about Nathaniel or what was in it for me.
+
+>ask about me
+"Seems like a pretty long way to stick my neck out for you. What's in it for me, exactly?"
+
+She gave me a sharp look. I could tell it got a lot of use, it was just as practiced as everything else about her. Here was a woman who wasn't afraid to throw her weight around, and made it a bad habit to force her to do it.
+
+"Think of me as your first client as a private dick. I'm asking you to make this one on the house. You owe me, remember?"
+
+She had me there. I didn't know if this was the kind of thing I could pay back, but I didn't like owing that kind of debt.
+
+I could have asked about the murder or about Nathaniel.
+
+>ask about nat
+That doesn't seem to be a topic of conversation at the moment.
+
+>ask about nathaniel
+"This Nathaniel Wyndham, is he old money?" I asked.
+
+"I guess. He made a sizeable fortune selling boots to the Allies during World War I, a real war profiteer. He used it to buy that ridiculous title, a couple of country estates, and even restored an old manor house. But a little time running with the Circle crowd will tell you that "old money" is a relative term."
+
+I could have asked about the murder.
+
+>ask about murder
+Val leaned in close until her face was inches from mine, and lowered her voice, even though no one was around. "Listen, kid. Here's how it's going down. We have a few hours before what passes for the law for our kind shows up and starts stomping its flat feet around. They don't much care if the wrong one of us takes the rap, or if no one does. Alan's nobody to the Circle, I doubt they'd care if this case went stone cold. But he used to be a friend of mine, and this is something I want to do for him."
+
+I didn't say anything.
+
+>ask about murder
+Val leaned in close until her face was inches from mine, and lowered her voice, even though no one was around. "Listen, kid. Here's how it's going down. We have a few hours before what passes for the law for our kind shows up and starts stomping its flat feet around. They don't much care if the wrong one of us takes the rap, or if no one does. Alan's nobody to the Circle, I doubt they'd care if this case went stone cold. But he used to be a friend of mine, and this is something I want to do for him."
+
+I didn't say anything.
+
+>stop conversatio
+I didn't understand that sentence.
+
+>stop conversation
+I didn't understand that sentence.
+
+>stop talking
+(to Val)
+I stopped talking to Val and turned my attention elsewhere.
+
+>undo
+Foyer
+[Previous turn undone.]
+
+>e
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>w
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+I could also see Val here.
+
+>stop talking
+(to Val)
+I wasn't talking to Val.
+
+>e
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. A fire roared inside, fresh logs having been added not too long ago.
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>u
+
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+An antique wooden radio sat on the table.
+
+I could also see a bottle of wine and a wineglass here.
+
+>undo
+Greatroom
+[Previous turn undone.]
+
+>time
+There was no one there to talk to.
+
+>e
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>n
+
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see a computer here.
+
+>x computer
+The computer was switched off.
+
+>x papers
+I thumbed through the pile on the desk, finding term papers and dissertations, collections of academic journals. Underneath most of it was something that caught my eye, a document with dollar signs on it and more zeroes than I'm used to seeing on paper.
+
+>x document
+I couldn't see any such thing.
+
+>l
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see a bank statement and a computer here.
+
+>x statement
+A bank statement detailing transactions for the past 6 months. Most of it is purchases of home furnishings and luxury goods. A couple of withdrawals stand out as having too many zeroes. Alan had made some large bank transfers every month to a foreign bank, and then one last cash withdrawal for the balance of the account. He'd needed liquid capital fast, which seemed a little odd for someone who seemed to be so financially stable.
+
+On the back of the page were three numbers, hastily scrawled:
+23 - 4 - 15
+
+>hint
+Objective
+
+Now was my chance to look through the place and see if anything could tell me what happened to Alan, and why.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+bank statement
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see a bank statement and a computer here.
+
+>x papers
+I thumbed through the pile on the desk, finding term papers and dissertations, collections of academic journals. Underneath most of it was something that caught my eye, a document with dollar signs on it and more zeroes than I'm used to seeing on paper.
+
+>x computer
+The computer was switched off.
+
+>switch computer
+I booted up Alan's computer to see what I could find. There were barely any house phones, and I hadn't found a cell phone. That meant his e-mail and web browser were probably his main points of contact.
+(Type "email" to access e-mail, "history" for search engine autocomplete history)
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>email
+ > Inbox
+   Sent
+
+ > Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+ > Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+ > Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+Make a selection
+
+
+
+Please press SPACE to continue.
+ > Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+ > Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+A copy of your W-2 has already been mailed to you. If you need an additional copy of your W-2 form for recordkeeping, please request it directly from Jennifer at the payroll office.
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+ > Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+ > Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+ > Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+Stuff
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+ > Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+ > Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+ > Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+ > Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+Hi Professor Bowden,
+I was wondering if you'd be willing to write me a recommendation for a graduate program I'll be applying to in a few months. I hope you've been happy with my work TAing the 200 level classes, and I'd be happy to give more specifics about my interests if that would help. The deadline for the submission is in a few months. I look forward to hearing back from you.
+Thanks,
+ Hilary Chanthavong
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+ > Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+ > Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+ > Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+ > Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+I am out of the office today, 11/24 and will respond to your message on Monday, 12/01.
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+ > Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+ > Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+ > Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+ > Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+Hi Professor I was just wondering when the final exam was because I have a lot of classes and think one of them might conflict with another class I'm taking thanks
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+ > Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+ > Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+ > Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+ > Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+Professor Bowden,
+When is the final exam?
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+ > Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+ > Sep 02     TDeavers@barnett.edu          Final
+   Sep 02     MChung@barnett.edu          Registration     
+
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+ > Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+ > Sep 02     MChung@barnett.edu          Registration     
+
+Professor,
+When I got to the registration system it said the class was full, even though there appear to be slots open in the listing. I wasn't able to contact anyone at the registrar's office, can you help me? I need to take this class for my major.
+Thanks,
+Melissa Chung
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+ > Sep 02     MChung@barnett.edu          Registration     
+   Date     From          Subject
+   Dec 20     payroll@barnett.edu          W-2 Copy Request
+   Dec 18     payroll@barnett.edu          
+   Dec 12     hchanthavong@barnett.edu          Recommendation
+   Nov 24     JBates@Barnett.edu          Out of Office until 12/01 Autoreply
+   Sep 02     PStillman@barnett.edu     Final Exam
+   Sep 02     TDeavers@barnett.edu          Final
+ > Sep 02     MChung@barnett.edu          Registration     
+
+ > Inbox
+   Sent
+
+   Inbox
+ > Sent
+   Inbox
+ > Sent
+
+ > Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+ > Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+ > Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Forgive my sudden request, but I really don't know where else to turn. A few months ago, I received a series of threatening letters from an anonymous individual demanding payment. I can't go into the details here, but suffice it to say that I gave in to the threats, and attempted to find a sum that this person would settle for. I have resolved not to pay them further, since it does not appear that they will reasonably ever leave me alone. Please, I need you to find who this is, and scare them off, or something, and I need it done quietly. Obviously, I would rather the authorities not get involved in this.
+Sincerely, Alan   Date     From          Subject
+ > Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+ > Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+ > Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+ > Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Hi Cassie,
+I haven't seen Kelly in class recently, have the two of you had any contact? Just thought I'd ask.
+
+Hope all's well,
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+ > Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+ > Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+ > Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+ > Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+All,
+I'd like to wish everyone a Happy Thanksgiving, please take some time off to relax and spend it with family. For those of you who are traveling home, have a safe journey. For those of you who are not able to, I'm hosting Thanksgiving dinner at my home, and all are welcome to attend. There's a great view of the lake, and I promise excellent food, drink, and company.
+Happy Holidays,
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+ > Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+ > Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+ > Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+ > Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Hi Frank,
+We have a guest speaker coming in to give a talk about historical architecture in Kyoto. I thought I'd give you guys a heads up in case your department or any of your students had an interest in that. I think her talk might be a little light on the history and heavy on the architecture, so just be aware of that. It's this Wednesday at 6pm in the Weber Hall auditorium, light refreshments to follow.
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+ > Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+ > Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Alex,
+It seems like the photocopy machine in the Asian Studies department office is low on toner, who do I talk to about getting that replaced?
+Thanks,
+
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+ > Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+ > Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Alex,
+It seems like the photocopy machine in the Asian Studies department office is low on toner, who do I talk to about getting that replaced?
+Thanks,
+
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+ > Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+ > Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+ > Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Karam,
+You mentioned in class today you wanted to discuss some revisions to your midterm paper in my office hours. I'm on campus Mondays and Tuesdays late in the evening, stop by sometime after 7. One of the TAs may have more convenient hours for you.
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+ > Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+ > Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+ > Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+ > Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Hi Linda,
+A couple of students in my class were trying to register past the add deadline, and said there was an error accessing the online system, is this indeed the case? Let me know if you anticipate any problems doing a manual add.
+Thanks,
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+ > Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+ > Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+ > Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+ > Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Class,
+I've already received several questions about the homework and date of the final exam, which as I've already stated, is in the course syllabus, which is available at the intranet link I mentioned in class. The syllabus already has the date of the midterm and final exam, as well as the grading policy for the entire semester listed in detail. I regret that I will not be able to answer any further questions to which the answers are already available.
+Regards,
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+ > Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+ > Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+   Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+ > Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+ > Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+Class,
+As you may have heard, my name is Alan Bowden, and I'll be teaching Intro to Asian Literature 201, as I do every fall. Even after so many years of teaching in this field, I love seeing a class of fresh new faces, and the enthusiasm and ideas with which you tackle this material. More than just having you read journals and criticism, my goal this semester is to teach you to think critically, and how to hone your own ideas about some of the world's oldest classics. For some of you, this will be a time to get your feet wet in a different literary tradition than you're used to. I look forward to an enjoyable semester together! For your reference, the syllabus may be found at the following intranet link.
+Regards,
+--
+Alan Bowden
+Asian Studies Department
+Barnett College, NY
+mbowden@barnett.edu
+
+
+
+Please press SPACE to continue.
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+ > Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+   Date     From          Subject
+   Dec 12     To: valsinclair7@beyondcoast.org     Urgent request
+   Nov 29     To: Cassie Detra     Quick question
+   Nov 20     To: AsianStudies201@barnett.edu          Thanksgiving Holiday
+   Nov 12     To: FranklinColl@barnett.edu          Happy Hour 
+   Nov 11     To: AlexandraCohen@barnett.edu     Copier malfunction
+   Nov 10     To: kakhtar@barnett.edu          Office hours
+   Nov 01     To: registrar@barnett.edu               Late registration
+   Sep 03     To: AsianStudies201@barnett.edu     Course Syllabus
+ > Sep 02     To: AsianStudies201@barnett.edu     Welcome to another semester
+
+   Inbox
+ > Sent
+
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see a bank statement and a computer here.
+
+>; a few runon sentences...but that's detailing. OVerall, this was effective
+You seem to want to talk to someone, but I can't see whom.
+
+>hint
+Objective
+
+Now was my chance to look through the place and see if anything could tell me what happened to Alan, and why.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+bank statement
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>exits
+south to Downstairs Hallway
+>l
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see a bank statement and a computer here.
+
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>x computer
+The computer was switched off.
+
+>smell
+I smelled nothing unexpected.
+
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>s
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>u
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>n
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+I was starting to feel tired. Everything that had happened in the past few days was finally starting to take its toll. I thought it might help to find a bedroom and sleep for a few hours.
+
+>s
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>; ok, not really 1 way as in the map
+You seem to want to talk to someone, but I can't see whom.
+
+>n
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>w
+(first opening bedroom door)
+
+Bedroom
+
+
+I could see a bottle of bourbon here.
+
+>sleep
+I changed into my pajamas and got into bed under the covers. I kept a reasonable distance between the two of us on the bed, though she didn't seem the type to get prudish about that kind of thing. I lay there thinking for a long time, trying to put together everything I'd heard into a picture that made sense. After five minutes that took two hours, I fell asleep, and dreamt of nothing.
+
+
+(press any key)
+I awoke to an empty room, bathed in the silver moonlight. She hadn't made a sound when she'd left. It took a second for me to realize that the shutters had gone back up. Through the window, I could see that lights were starting to come on in the distant houses dotted across the mountainside.
+
+I wasn't sure how long I'd slept, but it must have been about eight o'clock in the evening.
+
+>hints
+That noun did not make sense in this context.
+
+>hint
+Objective
+
+I wasn't a morning person, even if the time had shifted to 7 in the evening. Whatever passed for the heat in Val's world must have shown up by now.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+bank statement
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Bedroom
+
+
+I could see a memo and a bottle of bourbon here.
+
+>x bourbon
+A bottle of Woodford Reserve. One of the better ways to pass the time, if I had to choose. It was still half full, if I had to be an optimist about something.
+
+>read memo
+>x memo
+Kid,
+You'll be hungry soon. Alan used to keep a personal stash behind a painting in the hallway downstairs. 
+
+Help yourself, I need you to stay sharp for this one. Or don't, your call.
+
+>; ah, problems with "read"
+You seem to want to talk to someone, but I can't see whom.
+
+>e
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+I could see Adrian here.
+
+>talk to adrian
+He stood well over six feet with a build that belonged on the inside of a steel cage. The designer charcoal suit he wore hadn't quite been successfully altered to his wide frame. A deep purple tie sat at his neck in a fat knot Donald Trump would have approved of. The dark hair atop his head was neatly parted at the side, and slicked back almost flat to his head. His eyes were gray, and there was something baleful deep in them, peering out. His size and heavy brow made him look like a gorilla in Prada.
+
+He introduced himself as "Adrian Castillo, Deputy to the Warden of the Peace, appointed to serve at the pleasure of the Honorable Countess of Westchester." I didn't know what most of that meant, but I knew his suit was a little too nice for a cop entirely on the level. I wondered if that all fit on his business card.
+
+I could have asked about questioning me or how he knew my name.
+
+>ask about name
+"Did Val tell you about me?"
+
+"Nah, you I remember. I couldn't tell you much about these old timers, but your paperwork went through the office just the other day. We like to keep tabs on the newcomers. Your file said you used to work in homicide, huh." It wasn't a question.
+
+I could have asked about questioning me or about my file.
+
+>ask about questioning
+"So am I a suspect here?"
+
+"Nah. I'm going through the formalities, just in case. I just wanted to talk to everyone who had a personal connection with the guy. That leaves you off the hook. Not to mention the the alibi you left, according to your girlfriend.
+"Oh?"
+"Yeah, that twisted junk heap at the bottom of a cliff. They'll have a heck of a time towing that up. Anyway, if you were wandering out there a couple of hours ago, then there's no way you could get here at the time of death. But hey, if the lady turns out to have done it, maybe I can pin you with accessory to murder if you smile at me real nice."
+
+I could have asked about questioning Val or about my file.
+
+>ask about val
+"I'm going to need you to come with me downstairs. I've got to ask Ms. Sinclair a few questions, and she asked you be present." That confused me a bit. I wasn't entirely certain what Val and I were to each other, but I sure as hell wasn't her lawyer.
+
+
+
+I could have asked about anyone outside.
+
+>undo
+North Hallway
+[Previous turn undone.]
+
+>ask about file
+"I've only been one of you people for 48 hours, and I already have a file?"
+
+"You've had a file for three weeks now." I didn't like that. I didn't like it so much I could hardly think of a cute comeback to make. He seemed to enjoy lording over me the fact that he knew something that I didn't. It was probably a feeling he didn't get to enjoy very often.
+
+I could have asked about questioning Val.
+
+>ask about val
+"I'm going to need you to come with me downstairs. I've got to ask Ms. Sinclair a few questions, and she asked you be present." That confused me a bit. I wasn't entirely certain what Val and I were to each other, but I sure as hell wasn't her lawyer.
+
+
+
+I could have asked about anyone outside.
+
+>ask about outside
+"See anyone on your way in? A couple of guests seemed pretty spooked about the idea that the killer would come back, something about Lake Geneva." I kept my voice smooth and casual, like I wasn't at all nervous about the idea of being game in somebody else's pheasant hunt.
+
+"Nope, all quiet out there." Something in my face must've shown my silent vote of no confidence, since he tried to follow it up. "Listen, punk. I've been in this business twice as long as you've been alive. If I don't see nobody out there, there ain't nobody." I didn't tell him that that meant exactly jack and shit in my book. One look at him told me he didn't have an eye for detail. There's people on every force who can't think their way out of a wet paper bag, and I'd have bet my weight in cake donuts that Deputy Castillo here was one of them.
+
+>ask about xxx
+That doesn't seem to be a topic of conversation at the moment.
+
+>l
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+I could see Adrian here.
+
+>talk to adrian
+He stood well over six feet with a build that belonged on the inside of a steel cage. The designer charcoal suit he wore hadn't quite been successfully altered to his wide frame. A deep purple tie sat at his neck in a fat knot Donald Trump would have approved of. The dark hair atop his head was neatly parted at the side, and slicked back almost flat to his head. His eyes were gray, and there was something baleful deep in them, peering out. His size and heavy brow made him look like a gorilla in Prada.
+
+He introduced himself as "Adrian Castillo, Deputy to the Warden of the Peace, appointed to serve at the pleasure of the Honorable Countess of Westchester." I didn't know what most of that meant, but I knew his suit was a little too nice for a cop entirely on the level. I wondered if that all fit on his business card.
+
+I was already talking to Adrian.
+
+>talk to adrian
+He stood well over six feet with a build that belonged on the inside of a steel cage. The designer charcoal suit he wore hadn't quite been successfully altered to his wide frame. A deep purple tie sat at his neck in a fat knot Donald Trump would have approved of. The dark hair atop his head was neatly parted at the side, and slicked back almost flat to his head. His eyes were gray, and there was something baleful deep in them, peering out. His size and heavy brow made him look like a gorilla in Prada.
+
+He introduced himself as "Adrian Castillo, Deputy to the Warden of the Peace, appointed to serve at the pleasure of the Honorable Countess of Westchester." I didn't know what most of that meant, but I knew his suit was a little too nice for a cop entirely on the level. I wondered if that all fit on his business card.
+
+I was already talking to Adrian.
+
+>; ok, extraneous text
+You seem to want to talk to someone, but I can't see whom.
+
+>ask about me
+"So am I a suspect here?"
+
+"Nah. I'm going through the formalities, just in case. I just wanted to talk to everyone who had a personal connection with the guy. That leaves you off the hook. Not to mention the the alibi you left, according to your girlfriend.
+"Oh?"
+"Yeah, that twisted junk heap at the bottom of a cliff. They'll have a heck of a time towing that up. Anyway, if you were wandering out there a couple of hours ago, then there's no way you could get here at the time of death. But hey, if the lady turns out to have done it, maybe I can pin you with accessory to murder if you smile at me real nice."
+
+>stop talking
+(to Adrian)
+I stopped talking to Adrian and turned my attention elsewhere.
+
+>l
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+I could see Adrian here.
+
+>n
+(first opening master bedroom door)
+
+Master Bedroom
+The master suite sat at the north end of the house and had the best view of the valley and the lake. A four-poster bed with a thick down comforter looked like it would sink at least half a foot under any weight. Ornate wooden nightstands flanked the bed on either side. One was bare except for a lamp, the other was piled high with what must have been bedtime reading. In the corner of the room, I could see into a spacious closet.
+
+A book lay on the nightstand.
+
+I could also see a wall safe (closed) here.
+
+>read book
+Kokoro, by Soseki Natsume. The binding looked expensive and uncracked. A post-it note was stuck to the cover. Just two words were written on it: "I'm sorry."
+
+I started to flip through the book and noticed something handwritten on the title page. The cursive looked like it'd been written with a fountain pen.
+
+
+
+For Kelly
+     Somewhat appropriately, I got this book from my teacher, and now I'd like you to have it. More than whatever literary value it may have, from now on, I'll always remember it as the first book we read together.
+
+Yours,
+Alan
+
+>open book
+Kokoro, by Soseki Natsume. The binding looked expensive and uncracked. A post-it note was stuck to the cover. Just two words were written on it: "I'm sorry."
+
+I started to flip through the book and noticed something handwritten on the title page. The cursive looked like it'd been written with a fountain pen.
+
+
+
+For Kelly
+     Somewhat appropriately, I got this book from my teacher, and now I'd like you to have it. More than whatever literary value it may have, from now on, I'll always remember it as the first book we read together.
+
+Yours,
+Alan
+
+>read book
+Kokoro, by Soseki Natsume. The binding looked expensive and uncracked. A post-it note was stuck to the cover. Just two words were written on it: "I'm sorry."
+
+I started to flip through the book and noticed something handwritten on the title page. The cursive looked like it'd been written with a fountain pen.
+
+
+
+For Kelly
+     Somewhat appropriately, I got this book from my teacher, and now I'd like you to have it. More than whatever literary value it may have, from now on, I'll always remember it as the first book we read together.
+
+Yours,
+Alan
+
+>x safe
+A safe had been installed in the wall next to the bed. It was partially obscured by a painting someone had moved. A large dial with numbers around it sat in the middle.
+
+>turn dial to 23
+I couldn't see any such thing.
+
+>x dial
+I couldn't see any such thing.
+
+>x numbers
+I couldn't see any such thing.
+
+>23
+That noun did not make sense in this context.
+
+>23-5-14
+That noun did not make sense in this context.
+
+>s
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+I could see Adrian here.
+
+>s
+I followed the enormous man downstairs and into the library. Val was already sitting in one of the chairs at the desk, apparently at ease, like she had nothing else she'd rather be doing.
+
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see Val, Adrian, a bank statement and a computer here.
+
+>s
+
+Castillo took an official sort of bearing, or the nearest he could manage to one. "Please state your name for the record."
+"Valentine Nicole Sinclair."
+"Any aliases or other names you've used before?"
+"Nicky Deverell, but not recently."
+
+>z
+Time passed.
+
+The questions continued. Where she'd spent the last few days, what time she got to the chalet, that sort of thing. I looked around the library in the meantime, already knowing the answers to the parts I'd been present for.
+
+>x papers
+I thumbed through the pile on the desk, finding term papers and dissertations, collections of academic journals. Underneath most of it was something that caught my eye, a document with dollar signs on it and more zeroes than I'm used to seeing on paper.
+
+"Any family?" he asked.
+"None living."
+"Married?"
+"Widowed."
+
+>x statement
+A bank statement detailing transactions for the past 6 months. Most of it is purchases of home furnishings and luxury goods. A couple of withdrawals stand out as having too many zeroes. Alan had made some large bank transfers every month to a foreign bank, and then one last cash withdrawal for the balance of the account. He'd needed liquid capital fast, which seemed a little odd for someone who seemed to be so financially stable.
+
+On the back of the page were three numbers, hastily scrawled:
+23 - 4 - 15
+
+"And what was your late husband's name?"
+"Maxwell. But seeing as he's been dead fifty years, how about we leave him out of this?"
+Castillo didn't pursue it any further after hearing her tone. He probably could have, but didn't want to push things into open antagonism without a reason. I wouldn't have, in his place.
+
+Val put her cigarette out and got up. Her expression was stony, the businesslike demeanor she'd started with was gone now. Castillo got up, too, but stopped himself from saying anything. He didn't strike me as the sharpest tool in the shed, but he'd clearly learned where the line was. Staying in the good graces of his employer meant staying within the level of harassment his job warranted, and not ruffling the feathers of anyone too important in the Circle.
+
+"You'll let me know if there's anything else I can do to help, Deputy?" she said icily. She hadn't bothered looking at him as she said it. She gave me a look full of meaning and left the room in the direction of the foyer, closing the door behind her. Castillo suddenly seemed very small standing behind the desk. He must have felt it, too, because he got up and left without another word to me.
+
+>z
+Time passed.
+
+>l
+Library
+Of all the rooms I'd seen in the house, this one looked the most lived in. It had the musty smell of old books mixed with stale coffee coming from several cups on the desk.
+
+The rest of the desk was covered with messy stacks of papers.
+
+I could see a bank statement and a computer here.
+
+>d
+I couldn't go that way.
+
+>s
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+I could see Adrian here.
+
+>u
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>n
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>n
+
+Master Bedroom
+The master suite sat at the north end of the house and had the best view of the valley and the lake. A four-poster bed with a thick down comforter looked like it would sink at least half a foot under any weight. Ornate wooden nightstands flanked the bed on either side. One was bare except for a lamp, the other was piled high with what must have been bedtime reading. In the corner of the room, I could see into a spacious closet.
+
+A book lay on the nightstand.
+
+I could also see a wall safe (closed) here.
+
+>unlock safe
+What do you want to unlock the wall safe with?
+
+>23-4-15
+I couldn't see any such thing.
+
+>x safe
+A safe had been installed in the wall next to the bed. It was partially obscured by a painting someone had moved. A large dial with numbers around it sat in the middle.
+
+>turn safe
+It was fixed in place.
+
+>turn safe to 2
+I only understood you as far as wanting to turn the wall safe.
+
+>turn safe to 23
+I only understood you as far as wanting to turn the wall safe.
+
+>x numbers
+I couldn't see any such thing.
+
+>x large
+I couldn't see any such thing.
+
+>dial
+That noun did not make sense in this context.
+
+>dial right
+That noun did not make sense in this context.
+
+>hint
+Objective
+
+Val looked like she had something to tell me that couldn't wait. I thought I saw her walk off towards the front door.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Master Bedroom
+The master suite sat at the north end of the house and had the best view of the valley and the lake. A four-poster bed with a thick down comforter looked like it would sink at least half a foot under any weight. Ornate wooden nightstands flanked the bed on either side. One was bare except for a lamp, the other was piled high with what must have been bedtime reading. In the corner of the room, I could see into a spacious closet.
+
+A book lay on the nightstand.
+
+I could also see a wall safe (closed) here.
+
+>x lamp
+I couldn't see any such thing.
+
+>x nightstands
+Made of a heavy mahogany, the nightstands were carved with an intricate pattern of leaves. The workmanship and slightly faded look told me that they were antiques.
+
+>x bed
+I couldn't see any such thing.
+
+>l under bed
+I couldn't see any such thing.
+
+>search nightstands
+I found nothing of interest.
+
+>x reading
+I couldn't see any such thing.
+
+>x closet
+I walked into the closet and flicked on the light. Three quarters of it was the usual cruft that finds its way to a person's closet and never gets worn.
+
+I looked at the rest of it. A handful of suits that looked like they'd been bought in the 80s, judging by the lapels. Performance fleece winter gear and hiking boots, none of it looked like it had been worn. Velvet smoking jacket, no sweatpants or loungewear. Professor Bowden seemed to have some old-fashioned sensibilities.
+
+>search it
+I found nothing of interest.
+
+>x jacket
+I couldn't see any such thing.
+
+>x suits
+I couldn't see any such thing.
+
+>search closet
+I found nothing of interest.
+
+>l
+Master Bedroom
+The master suite sat at the north end of the house and had the best view of the valley and the lake. A four-poster bed with a thick down comforter looked like it would sink at least half a foot under any weight. Ornate wooden nightstands flanked the bed on either side. One was bare except for a lamp, the other was piled high with what must have been bedtime reading. In the corner of the room, I could see into a spacious closet.
+
+A book lay on the nightstand.
+
+I could also see a wall safe (closed) here.
+
+>x closet
+I walked into the closet and flicked on the light. Three quarters of it was the usual cruft that finds its way to a person's closet and never gets worn.
+
+I looked at the rest of it. A handful of suits that looked like they'd been bought in the 80s, judging by the lapels. Performance fleece winter gear and hiking boots, none of it looked like it had been worn. Velvet smoking jacket, no sweatpants or loungewear. Professor Bowden seemed to have some old-fashioned sensibilities.
+
+>open safe
+I spun the dial, stopping it carefully on the numbers written on the paper.
+
+>open safe
+I spun the dial, stopping it carefully on the numbers written on the paper.
+
+>l in safe
+In the wall safe were a manila envelope and some cash.
+
+>x envelope
+I saw nothing special about the manila envelope.
+
+>read it
+>x cash
+Five neat stacks of worn bills, each banded with a gold paper strip reading "10,000."
+
+>get cash
+Taken.
+
+>hint
+Objective
+
+Val looked like she had something to tell me that couldn't wait. I thought I saw her walk off towards the front door.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>save
+Ok.
+
+>s
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>s
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>e
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window looked out onto the valley and a vast lake, a real one put there by nature, not a big hole dug by a developer to increase "lakeside" property values.
+
+
+
+
+>; line breaks, ouch
+You seem to want to talk to someone, but I can't see whom.
+
+>x window
+I couldn't see any such thing.
+
+>n
+(first opening door)
+
+Hemlock Room
+The room had an angled ceiling to give the impression of a cozy attic or country cabin, except it was about as big as my entire apartment. Piles of climbing equipment and bunched-up coils of rope were heaped in the corner on top of his luggage. A gray sweater hung on a chair, flecks of dark reddish-brown stains dried on it.
+
+
+Jan stood here amid his piles climbing gear, coiling a long length of rope around one of his broad shoulders.
+
+>talk to jan
+>ask jan about me
+That noun did not make sense in this context.
+
+>stop talking
+(to Jan)
+I stopped talking to Jan and turned my attention elsewhere.
+
+>; hm, no subjects for jan?
+You seem to want to talk to someone, but I can't see whom.
+
+>x sweater
+It was a thick wool turtleneck, so big it looked like a blanket draped over the chair. Around the front and the sleeves, blood stains were visible where some had apparently splashed back onto it.
+
+>x stains
+I couldn't see any such thing.
+
+>hint
+Objective
+
+Val looked like she had something to tell me that couldn't wait. I thought I saw her walk off towards the front door.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Hemlock Room
+The room had an angled ceiling to give the impression of a cozy attic or country cabin, except it was about as big as my entire apartment. Piles of climbing equipment and bunched-up coils of rope were heaped in the corner on top of his luggage. A gray sweater hung on a chair, flecks of dark reddish-brown stains dried on it.
+
+
+Jan stood here amid his piles climbing gear, coiling a long length of rope around one of his broad shoulders.
+
+>get sweater
+That was hardly portable.
+
+>x chair
+I couldn't see any such thing.
+
+>x rope
+I couldn't see any such thing.
+
+>x luggage
+I couldn't see any such thing.
+
+>x gear
+I couldn't see any such thing.
+
+>x rope
+I couldn't see any such thing.
+
+>attack jan
+Violence wasn't the answer to this one.
+
+>s
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window looked out onto the valley and a vast lake, a real one put there by nature, not a big hole dug by a developer to increase "lakeside" property values.
+
+
+
+
+>s
+(first opening door)
+
+Sumac Room
+There was something decidedly autumn about the decoration of the room, heavy curtains the color of cherries, and luxurious golden bed linens that looked like smooth parchment on the king-size bed.
+
+
+I could also see Scott here.
+
+>x curtains
+I couldn't see any such thing.
+
+>x linens
+I couldn't see any such thing.
+
+>x bed
+I couldn't see any such thing.
+
+>search it
+I found nothing of interest.
+
+>talk to scott
+That noun did not make sense in this context.
+
+>scott,hello
+You seem to want to talk to someone, but I can't see whom.
+
+>x scott
+I couldn't see any such thing.
+
+>l
+Sumac Room
+There was something decidedly autumn about the decoration of the room, heavy curtains the color of cherries, and luxurious golden bed linens that looked like smooth parchment on the king-size bed.
+
+
+I could also see Scott here.
+
+>n
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window looked out onto the valley and a vast lake, a real one put there by nature, not a big hole dug by a developer to increase "lakeside" property values.
+
+
+
+
+>e
+(first opening door)
+
+Oak Room
+The room had a large white rug in the center, and a four-poster bed that looked nice enough that it might have once sat in the master bedroom. An ugly, expensive-looking valise lay on the bed, its weight sinking it a full six inches into the feathertop mattress.
+
+
+I could also see Nathaniel here.
+
+>talk to nathaniel
+>ask about me
+That noun did not make sense in this context.
+
+>ask about nathaniel
+That doesn't seem to be a topic of conversation at the moment.
+
+>hint
+Objective
+
+Val looked like she had something to tell me that couldn't wait. I thought I saw her walk off towards the front door.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>topics
+I could have asked nothing.
+
+>stop talking
+(to Nathaniel)
+I stopped talking to Nathaniel and turned my attention elsewhere.
+
+>l
+Oak Room
+The room had a large white rug in the center, and a four-poster bed that looked nice enough that it might have once sat in the master bedroom. An ugly, expensive-looking valise lay on the bed, its weight sinking it a full six inches into the feathertop mattress.
+
+
+I could also see Nathaniel here.
+
+>xx valise
+That noun did not make sense in this context.
+
+>x valise
+I couldn't see any such thing.
+
+>get all
+There are none at all available!
+
+>x bed
+I couldn't see any such thing.
+
+>w
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window looked out onto the valley and a vast lake, a real one put there by nature, not a big hole dug by a developer to increase "lakeside" property values.
+
+
+
+
+>w
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>s
+I couldn't go that way.
+
+>w
+I couldn't go that way.
+
+>d
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+I could see Adrian here.
+
+>w
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>w
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+I could also see Val here.
+
+>talk to val
+I could have asked about the deputy, about my file, what she wanted to see me about or about the bourbon.
+
+>ask about deputy
+"That guy was quite a character," I said, trying not to sound too judgemental in case Val liked him. It seemed unlikely.
+"Adrian? What did you make of him, was he up to your standards for a lawman?"
+"Ever hear the schoolyard joke about what pennies are made of?"
+She laughed. It wasn't a high, put-on laugh, but something rich and throaty, like a note from a cello.
+
+
+
+I could have asked about my file, what she wanted to see me about or about the bourbon.
+
+>ask about file
+I put on my tough detective voice to try and take some of the surprise out of it. I had an image to maintain. "I heard about my file from Castillo. You've been stalking me for weeks now?"
+"I wouldn't put it like that."
+"How would you put it then?"
+"I got the go ahead for a Patron application I put in a while back. That sort of opportunity doesn't come every day, so I scouted for a recruit. And then I made you an offer."
+
+
+
+I could have asked about our first meeting, what she wanted to see me about or about the bourbon.
+
+>ask about first
+"So the first time we met, that wasn't a coincidence, was it?"
+"Would you have chosen differently if you'd known?"
+"No."
+"Then what the hell are you sore about?" She was starting to sound impatient again.
+
+
+
+I could have asked what she wanted to see me about or about the bourbon.
+
+>ask about about
+"So the first time we met, that wasn't a coincidence, was it?"
+"Would you have chosen differently if you'd known?"
+"No."
+"Then what the hell are you sore about?" She was starting to sound impatient again.
+
+
+
+I could have asked what she wanted to see me about or about the bourbon.
+
+>ask about what she
+She came over and leaned against the wall next to me. She bent over slightly, as though she were stretching, or just killing time on a lazy Sunday afternoon.
+"Did you tell anyone you were coming here? Your boss, or your partner, maybe?"
+I shook my head. "Why, what's this all about?"
+"What if I told you that a week ago, Alan contacted me, saying he was in some trouble?"
+"You mean blackmail." I didn't make a question out of it. She looked up at me, then around to make sure no one else was in earshot.
+
+
+
+
+I could have asked what she was trying to say or about the bourbon.
+
+>ask about trying to say
+"What are you trying to say, exactly?"
+"If someone was squeezing Alan for money, it's possible that the blackmailer didn't want a detective in the house."
+"Are you saying that you think whoever killed Alan is coming after me next?"
+"I'm saying I think they already tried. You still think your car going off that cliff was an accident? If someone as clueless as Castillo has his hands on your file, how many other people knew about you, and that you were coming here? It'd be easy, especially if it's someone who could dig up serious dirt on Alan in the first place."
+I didn't really want to believe it. Though I was clearly a small fish in this pond, I'd taken some comfort in what I thought was my anonymity as a newcomer. Being an unknown quantity can be an advantage in a lot of situations. I'd chalked up that crash to bad driving on a shitty road, but Val and I seemed to have at least one thing in common in that we didn't really believe in coincidence.
+
+
+
+I could have asked about the bourbon.
+
+>ask about bourbon
+"Your friend Alan seems to have kept this place well-stocked with liquor," I said.
+"Like I mentioned, he entertained a lot of guests. You seem to have a taste for bourbon yourself."
+"Sure," I said. "I know this great speakeasy on the East Side, off Houston Street. Best selection of bourbon you'll ever see."
+"A what?"
+"A speakeasy," I repeated. She rolled her eyes.
+
+
+
+>kiss val
+Val might not have like that.
+
+>; have liked?
+That noun did not make sense in this context.
+
+>l
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+I could also see Val here.
+
+>topics
+I could have asked about the deputy, about my file, about our first meeting, what she wanted to see me about, what she was trying to say or about the bourbon.
+
+>ask about deputy
+"That guy was quite a character," I said, trying not to sound too judgemental in case Val liked him. It seemed unlikely.
+"Adrian? What did you make of him, was he up to your standards for a lawman?"
+"Ever hear the schoolyard joke about what pennies are made of?"
+She laughed. It wasn't a high, put-on laugh, but something rich and throaty, like a note from a cello.
+
+
+
+>exit
+But I wasn't in anything at the time.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>; these are good hints, not spoiling anything
+You seem to want to talk to someone, but I can't see whom.
+
+>;but I might break it up into 3 verbs later
+That noun did not make sense in this context.
+
+>w
+(first opening the front door)
+
+Front Porch
+Steps led up from the gravel driveway to the porch. Narrow unpainted wood planks extended the length of the house, along with windows that looked into rooms at the front. Through them, I saw blinds, and a glint of something metallic, like a shutter.
+
+The front door stood open.
+
+>w
+
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val's Mercedes was parked to one side of the driveway.
+
+>w
+I couldn't go that way.
+
+>w
+I couldn't go that way.
+
+>ss
+That noun did not make sense in this context.
+
+>s
+I couldn't go that way.
+
+>n
+I couldn't go that way.
+
+>d
+I couldn't go that way.
+
+>u
+I couldn't go that way.
+
+>x mercedes
+The Mercedes was empty.
+
+>enter it
+We got in the car and Val pulled out of the driveway. A short while later, we were back at the mountain road where I'd broken through the guardrail.
+(press any key)
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>x v8
+I couldn't see any such thing.
+
+>x tracks
+I couldn't see any such thing.
+
+>x guardrail
+I couldn't see any such thing.
+
+>re
+That noun did not make sense in this context.
+
+>e
+
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x key
+I couldn't see any such thing.
+
+>get key
+I couldn't see any such thing.
+
+>get all
+There are none at all available!
+
+>x corolla
+I couldn't see any such thing.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>
+I beg your pardon?
+
+>x window
+I couldn't see any such thing.
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>x ignition
+I couldn't see any such thing.
+
+>n
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>s
+
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x path
+I couldn't see any such thing.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>w
+
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>w
+I couldn't go that way.
+
+>x tracks
+I couldn't see any such thing.
+
+>x rail
+I couldn't see any such thing.
+
+>talk to val
+>topics
+I could have asked about the deputy, about my file, about our first meeting, what she wanted to see me about, what she was trying to say or about the bourbon.
+
+>ask about bourbon
+"Your friend Alan seems to have kept this place well-stocked with liquor," I said.
+"Like I mentioned, he entertained a lot of guests. You seem to have a taste for bourbon yourself."
+"Sure," I said. "I know this great speakeasy on the East Side, off Houston Street. Best selection of bourbon you'll ever see."
+"A what?"
+"A speakeasy," I repeated. She rolled her eyes.
+
+
+
+>x car
+The Mercedes was empty.
+
+>enter it
+I got back in the Mercedes, and Val drove us to the house. Neither of us spoke on the way back, we had too much on our minds, I guess.
+(press any key)
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val's Mercedes was parked to one side of the driveway.
+
+I could also see Val here.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>enter car
+We got in the car and Val pulled out of the driveway. A short while later, we were back at the mountain road where I'd broken through the guardrail.
+(press any key)
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>x guardrail
+I couldn't see any such thing.
+
+>x rail
+I couldn't see any such thing.
+
+>l
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>e
+
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>
+I beg your pardon?
+
+>push car
+(my car)
+It was fixed in place.
+
+>search it
+I found nothing of interest.
+
+>x window
+I couldn't see any such thing.
+
+>enter car
+(my car)
+Given the state it was in, I could see everything I needed to from the outside.
+
+>get key
+I couldn't see any such thing.
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>n
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>x path
+I couldn't see any such thing.
+
+>n
+
+Dense Forest
+I walked for what must have been half an hour through the pines, which kept getting denser. In the light just before dawn, I saw the evergreen foliage come to a sudden stop ahead. I was starting to get seriously worried.
+
+>n
+
+Precipice
+The forest abruptly ended in the edge of a cliff, overlooking a valley and several lakes hundreds of feet below.
+
+>x valley
+I couldn't see any such thing.
+
+>x nakes
+I couldn't see any such thing.
+
+>n
+I couldn't go that way.
+
+>w
+I couldn't go that way.
+
+>e
+I couldn't go that way.
+
+>n
+I couldn't go that way.
+
+>l
+Precipice
+The forest abruptly ended in the edge of a cliff, overlooking a valley and several lakes hundreds of feet below.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Precipice
+The forest abruptly ended in the edge of a cliff, overlooking a valley and several lakes hundreds of feet below.
+
+>s
+
+Dense Forest
+I walked for what must have been half an hour through the pines, which kept getting denser. In the light just before dawn, I saw the evergreen foliage come to a sudden stop ahead. I was starting to get seriously worried.
+
+>s
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>s
+
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x path
+I couldn't see any such thing.
+
+>x trees
+I couldn't see any such thing.
+
+>x ridge
+I couldn't see any such thing.
+
+>w
+
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>x val
+I saw nothing special about Val.
+
+>s
+There was nothing interesting that way except for Manhattan, and it was a little far to walk.
+
+>w
+I couldn't go that way.
+
+>n
+I couldn't go that way.
+
+>s
+There was nothing interesting that way except for Manhattan, and it was a little far to walk.
+
+>; this is very good
+That noun did not make sense in this context.
+
+>;more rejects like this please
+That noun did not make sense in this context.
+
+>showme
+That noun did not make sense in this context.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>exits
+south to Hairpin Turn and down to Bottom of Cliff
+>s
+There was nothing interesting that way except for Manhattan, and it was a little far to walk.
+
+>topics
+I wasn't talking to anyone.
+
+>talk to val
+>topics
+I could have asked about the deputy, about my file, about our first meeting, what she wanted to see me about, what she was trying to say or about the bourbon.
+
+>ask about file
+I put on my tough detective voice to try and take some of the surprise out of it. I had an image to maintain. "I heard about my file from Castillo. You've been stalking me for weeks now?"
+"I wouldn't put it like that."
+"How would you put it then?"
+"I got the go ahead for a Patron application I put in a while back. That sort of opportunity doesn't come every day, so I scouted for a recruit. And then I made you an offer."
+
+
+
+>l
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>x tracks
+I couldn't see any such thing.
+
+>e
+
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>e
+I couldn't go that way.
+
+>s
+I couldn't go that way.
+
+>x incline
+I couldn't see any such thing.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>enter car
+(my car)
+Given the state it was in, I could see everything I needed to from the outside.
+
+>; contradiction
+That noun did not make sense in this context.
+
+>x window
+I couldn't see any such thing.
+
+>x engine
+I couldn't see any such thing.
+
+>x door
+I couldn't see any such thing.
+
+>x gas
+I couldn't see any such thing.
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>l under car
+(my car)
+I found nothing of interest.
+
+>x pieces
+I couldn't see any such thing.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>enter car
+(my car)
+Given the state it was in, I could see everything I needed to from the outside.
+
+>x fender
+I couldn't see any such thing.
+
+>x windshield
+I couldn't see any such thing.
+
+>x seat
+I couldn't see any such thing.
+
+>x headlight
+I couldn't see any such thing.
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x wheel
+I couldn't see any such thing.
+
+>x trunk
+I couldn't see any such thing.
+
+>x tires
+I saw nothing special about the tires.
+
+>search tires
+I found nothing of interest.
+
+>x engine
+I couldn't see any such thing.
+
+>x trunk
+I couldn't see any such thing.
+
+>x doors
+I couldn't see any such thing.
+
+>x seat
+I couldn't see any such thing.
+
+>get tires
+That was hardly portable.
+
+>x toyota
+I couldn't see any such thing.
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x snow
+I couldn't see any such thing.
+
+>x path
+I couldn't see any such thing.
+
+>x brush
+I couldn't see any such thing.
+
+>hint
+Objective
+
+We thought that maybe whoever killed Alan had wanted to prevent me from getting here in the first place. At least, I thought it was worth going back to that cliff to find out.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>n
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>x snow
+I couldn't see any such thing.
+
+>x path
+I couldn't see any such thing.
+
+>n
+
+Dense Forest
+I walked for what must have been half an hour through the pines, which kept getting denser. In the light just before dawn, I saw the evergreen foliage come to a sudden stop ahead. I was starting to get seriously worried.
+
+>x pines
+I couldn't see any such thing.
+
+>x foliage
+I couldn't see any such thing.
+
+>n
+
+Precipice
+The forest abruptly ended in the edge of a cliff, overlooking a valley and several lakes hundreds of feet below.
+
+>n
+I couldn't go that way.
+
+>w
+I couldn't go that way.
+
+>e
+I couldn't go that way.
+
+>d
+I couldn't go that way.
+
+>s
+
+Dense Forest
+I walked for what must have been half an hour through the pines, which kept getting denser. In the light just before dawn, I saw the evergreen foliage come to a sudden stop ahead. I was starting to get seriously worried.
+
+>s
+
+Mountain Ridge
+I had a bad feeling as I walked my way along the ridge, trudging a couple of miles through the foot-deep snow. The path didn't seem to be leading anywhere, and the sky kept getting lighter as I went. I still had enough time to turn back, if I wanted to.
+
+>s
+
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>x piece
+I couldn't see any such thing.
+
+>sleep
+I wasn't feeling especially drowsy.
+
+>wake
+The dreadful truth was, this was not a dream.
+
+>x scene
+I couldn't see any such thing.
+
+>x car
+(my car)
+The car I'd driven for close to the last hundred thousand miles, fender bent and windshield missing. I hadn't expected to have to look at it again, but if Val thought there was something here, that's the hunch I was going to play.
+
+If I was going to find anything, I'd have to look through it piece by piece to figure out what happened. I started to feel detached from the place, like I'd never been there before. Start fresh, don't miss anything. I told myself to treat it like any other crime scene.
+
+>enter car
+(my car)
+Given the state it was in, I could see everything I needed to from the outside.
+
+>x fuel
+I couldn't see any such thing.
+
+>x line
+I put a hand behind the wheel and the suspension arm and felt along the metal tube of the brake line, nearly slicing my finger on a thin slit. It wasn't a bit of rust or metal fatigue, the cut was too clean. It might have been made by a dremel or a wire cutter. Cutting brake lines straight through would stop the front brakes from working entirely. But a leak like this could take hours to affect performance. Whatever my state of mind or driving had been on that turn, this wasn't an accident.
+
+The fact that I was able to see all of this without a flashlight barely registered.
+
+>; I had trouble guessing this w/o guessing the parts of the car.
+I wasn't talking to anyone.
+
+>; this is possible but a bit of cluing would help
+I wasn't talking to anyone.
+
+>hint
+Objective
+
+I had another chance to look around the house for clues. I figured I should use it.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>save
+Ok.
+
+>

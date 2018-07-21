@@ -1,0 +1,1019 @@
+Start of a transcript of
+
+A Long Drink
+An Interactive Mystery by Owen Parks
+Release 7 / Serial number 150214 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) 
+Identification number: //615AD313-D26C-44F5-9110-1C79488431D3//
+Interpreter version 0.5.2 / VM 3.1.2 / Library serial number 080126
+Standard Rules version 3/120430 by Graham Nelson
+Threaded Conversation version 5/140601 by Chris Conley (modified from Threaded Conversation by Emily Short and based on Alabaster by Emily Short, et. al.)
+Exit Lister version 3 by Gavin Lambert
+List Control version 3 by Eric Eve
+Conversation Framework version 11 by Eric Eve
+Epistemology version 8 by Eric Eve
+
+>hint
+Objective
+
+I had another chance to look around the house for clues. I figured I should use it.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Bottom of Cliff
+I stood on a ridge densely packed with trees some ways below the highway. My wrecked car sat a few feet away. The ridge extended as far as I could see to the north, going nowhere in particular. To the west I saw the steep incline the car had rolled down, and the path it'd cut through the snow and brush.
+
+My Toyota Corolla in a fetching "Regatta Blue" that must have looked appealing under bright dealership lights when it was brand new back in 1990. I wouldn't know. It now sat on its side like a beached whale, exactly where I'd left it. The key was still in the ignition.
+
+>e
+I couldn't go that way.
+
+>w
+
+Sharp Bend
+I walked on the snowy road about a hundred feet from the hairpin turn where my car had gone over; I could see the tire tracks and broken guardrail to the east.
+
+A Mercedes is quietly idling here, V8 purring.
+
+I could also see Val here.
+
+>enter mercedes
+I learned what I needed to, there wasn't much point in going back to the crash site now.
+I got back in the Mercedes, and Val drove us to the house. Neither of us spoke on the way back, we had too much on our minds, I guess.
+(press any key)
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val's Mercedes was parked to one side of the driveway.
+
+I could also see Val here.
+
+>enter mercedes
+I learned what I needed to, there wasn't much point in going back to the crash site now.
+I learned what I needed to, there wasn't much point in going back to the crash site now.
+
+>; oops double text
+That noun did not make sense in this context.
+
+>about
+A word from the author:
+This work would not have been possible without help from a great many people. Special thanks to my testers: FK, TF, KG, DO, caleb, inurashii, Sequitur, matt w, and busterwrites, and all the patient folks in #i7 on the IFMUD.
+This story has many edge cases. If you believe you have found a bug, please send an email to: alongdrink@beyondcoast.org
+
+Cover art by Dan Smith Licensed under Creative Commons By 2.0 Image at: https://flic.kr/p/pPkjHD License Terms at: https://creativecommons.org/licenses/by/2.0/ 
+
+Thanks for playing.
+>l
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val's Mercedes was parked to one side of the driveway.
+
+I could also see Val here.
+
+>hint
+Objective
+
+I had another chance to look around the house for clues. I figured I should use it.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>e
+
+Front Porch
+Steps led up from the gravel driveway to the porch. Narrow unpainted wood planks extended the length of the house, along with windows that looked into rooms at the front. Through them, I saw blinds, and a glint of something metallic, like a shutter.
+
+The front door stood open.
+
+>w
+
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val's Mercedes was parked to one side of the driveway.
+
+I could also see Val here.
+
+>e
+
+Front Porch
+Steps led up from the gravel driveway to the porch. Narrow unpainted wood planks extended the length of the house, along with windows that looked into rooms at the front. Through them, I saw blinds, and a glint of something metallic, like a shutter.
+
+The front door stood open.
+
+>e
+I walked into the house, taking care to close the door behind me.
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+I hadn't realized it until I saw an edge of light blue on the horizon, but we'd cut things pretty close again. A quiet whirring of the closing shutters and a click of the lock was the only indication that the sun was about to rise. The foyer went artificially dark again, except for the light of the brass chandelier.
+
+>; you printed something twice here. "Move player to room x, without printing a description" works
+You seem to want to talk to someone, but I can't see whom.
+
+>hint
+Objective
+
+I had another chance to look around the house for clues. I figured I should use it.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>l
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+>x picture
+I couldn't see any such thing.
+
+>e
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+Through the stillness of the house, I heard yelling upstairs. It started as a panicked cry of shock and surprise, but quickly turned to screams of agony. It went on, loud and incoherent, muffled by the wooden walls of the house, getting more raspy and strangled, like a pillow smothering a face. Then, just as suddenly, it stopped. I felt a lump in my stomach like a lead weight, and reached for where my shoulder holster used to be for a gun that wasn't there.
+(press any key)
+>hint
+Objective
+
+The screams I heard from the second floor had the air of finality about them. Someone was dead or dying, and I was running out of time to find out who.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>u
+
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+An antique wooden radio sat on the table.
+
+I could also see a bottle of wine and a wineglass here.
+
+>x radio
+It was a vintage vacuum tube radio, maybe 1920 or 1930 if I had to guess, though the polished dark wood didn't look like it'd aged a day.
+
+The radio was switched off.
+
+>x bottle of wine
+A Bordeaux from back in 2001, uncorked and almost empty. Expensive bottle to be drinking alone.
+
+>x wineglass
+A crystal wineglass, empty but for a few drops of red wine at the bottom.
+
+>drink wine
+(the bottle of wine)
+There was nothing suitable to drink here.
+
+>d
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>e
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>e
+
+Kitchen
+I stepped into a kitchen big enough for a game of football. Wooden cabinets and handsome tile in earth tones went from wall to wall. The quaint country look was somewhat ruined by the collection of modern stainless steel kitchen appliances. They were brand new and it looked like not one of them had been used. It figured, this didn't seem like the kind of place that had a cooking staff.
+
+>; it figured. This
+That noun did not make sense in this context.
+
+>w
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>u
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>n
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>w
+
+Bedroom
+
+
+I could see a memo and a bottle of bourbon here.
+
+>e
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>n
+The door to the master bedroom was ajar. I opened it a crack to peer inside. Castillo must have been looking for something in Alan's room. That's the only reason he would've gone in there. It struck me suddenly how bright the room was; the shutters were open, flooding the entire room with daylight.
+
+I saw a figure on the floor, though figure was no longer an apt term for it. It was a mass draped in expensive suitcloth, lumpy and charred. There was nothing I could do for him now. I couldn't even get to him, for that matter. He might as well have been on the surface of the sun itself. What I needed to do now was reset the circuit, if something shorted. Any overrides would probably be in a basement fuse box.
+
+
+(press any key)
+>hint
+Objective
+
+Castillo was dead. Someone had rigged the shutters in his room to stay open at sunrise, though thankfully something had stopped them before they were able to uncover the whole house.
+
+If there was a manual override or circuit breaker, it'd be in the basement.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>
+I beg your pardon?
+
+>s
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>s
+I couldn't go that way.
+
+>d
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>d
+
+Wine Cellar
+ A wine rack ran the perimeter of the room, holding enough bottles to supply a French restaurant. A few seemed to be missing here and there. A wooden chair sat in the corner.
+
+In the corner was a fuse box, partially obscured by shelves.
+
+I was so focused on trying to read the labels on the fuse box that I didn't notice the footsteps behind me. Maybe I wouldn't have anyway. I heard a dull crack and realized it was the sound of a heavy bottle hitting the back of my head. It was the last thing I remembered thinking about before the rush of unconsciousness. I was out before I hit the floor.
+(press any key)
+Wine Cellar
+I woke up with a headache like I'd kissed the Long Island Express goodnight. When I tried to put my hands up to feel the back of my head, they jerked against ropes tying them to the chair, along with my legs. He'd gotten the drop on me, that was for sure.
+
+Well, I was in pretty deep now. I looked around the dark room. No one to talk to but myself for the moment.
+
+
+In the corner was a fuse box, partially obscured by shelves.
+
+I could have asked why there were two wineglasses, why Alan was stabbed using a letter opener, why there was a stain on the sofa, why someone cut my brakes or why the lock had scratches on it.
+
+>ask about two
+There were two wineglassesand an expensive bottle of wine that once sat on that table in the reading nook. Alan had known whoever it was well enough, or wanted to impress them enough to warrant opening a bottle of Bordeaux.
+
+
+
+I could have asked why Alan was stabbed using a letter opener, why there was a stain on the sofa, why someone cut my brakes or why the lock had scratches on it.
+
+>; glassesand
+That noun did not make sense in this context.
+
+>ask about letter
+Why had that particular murder weapon been used? He hadn't been stabbed with a knife, he'd been stabbed by his own letter opener, the initials proved that. Whoever had stabbed him hadn't planned to. It seemed pretty farfetched that someone would drive all the way here with the express purpose of killing a man, and trust finding a letter opener to do it with.
+
+
+
+I could have asked why there was a stain on the sofa, why someone cut my brakes or why the lock had scratches on it.
+
+>ask about stain
+Alan and his visitor were apparently having civilized conversation and drinking their wine for some time, judging by the state of the bottle. Then suddenly, a struggle had broken out. One wineglass got knocked over onto the floor, another went over the railing into the living room and under the sofa. And of course, Alan's assailant won the struggle. 
+
+
+
+I could have asked why someone cut my brakes or why the lock had scratches on it.
+
+>ask about brakes
+That part got under my skin more than the rest of it. It almost seemed entirely unrelated and oddly personal. Someone hadn't wanted me here. But to all of these people, I was nobody until yesterday. Even then, I might've just been some guest Val brought along. I could think of another reason it might be advantageous to not have a cop at the house: they were the one blackmailing Alan.
+
+
+
+I could have asked why the lock had scratches on it.
+
+>ask about lock
+The scratches on the lock and damage to the front door frame were a nice touch. Anyone responding to the house would think the killer had broken in, that it was someone Alan hadn't known. On top of all that, it didn't add up that someone would go through all that trouble to break in and kill Alan, and end up doing it with a letter opener that happened to be lying around.
+
+
+
+I lifted my head when I heard a noise straight ahead. The door opened, and a figure stood silhouetted there for a moment. He quietly closed the door behind him, and I saw Scott's face turn around to face me. He was holding a gun that wasn't pointed at anything specific, but I didn't think it would stay that way for long.
+
+(press any key)
+Wine Cellar
+Scott had me dead to rights. The overhead lights in the cellar made his brow and nose cast long shadows down his face. Even so, I could tell his eyes burned with hate and bitterness. It wasn't all for me. He'd formed himself from a shy nerd into a the confidence man who gave TED talks and blithely took the venture capital thrown at him. But every day of it had been a tremendous effort. I saw it now that years of simmering hatred had stripped it away, down to the bone.
+
+None of that mattered now. I was in his way, and whatever plan he'd come here with had unravelled spectacularly. If I didn't talk fast, I wasn't making it out of this basement. I wasn't sure if anyone was still home, or still alive. Maybe someone would hear if I yelled. I didn't want to try it unless I knew for sure that help would come; that's really only a trick that works once.
+
+In the corner was a fuse box, partially obscured by shelves.
+
+I could also see Scott here.
+
+I could have asked how he planned on getting away, where he got the gun or why he needed the money.
+
+>ask about away
+"You seriously plan to just kill us and get out of here?"
+
+"It'll be easy. A house full of corpses turned to ash, I can just make sure it looks like mine is among them. I disappear, and start over with a new life. It's easy enough to pull off, we all have to do it every century or so. No one will come looking for me, we'll just be tragic victims of some rogue hunter. I take care of you and the lady, open all the shutters, and that's that. Come sundown, that makes a clean getaway."
+
+I could have asked where he got the gun or why he needed the money.
+
+>ask about gun
+I licked my lips, trying not to look as panicky as I felt. "Where'd you get the gun? Alan's desk?"
+"Uh-huh. The last payment was supposed to be a dead drop of the cash, but I knew he got cold feet. That, or he was trying to set me up by calling you and Val."
+
+
+
+I could have asked why he needed the money or why he killed Alan.
+
+>ask about money
+"I guess business isn't as great as all that if you were trying to shake Alan down. Risky to switch to cash and make an exchange, especially if he didn't know it was you blackmailing him."
+He said nothing. I didn't expect him to really own up to his mistakes, he wasn't the type for a lot of self-reflection. It wasn't hard to imagine,  though, with the way most of these startups are run. You'd think people would have learned from the dot-com bust."
+
+
+
+I could have asked why he killed Alan or how he found out about Alan's secret.
+
+>ask about alan
+"If my guess is right, you never meant to kill Alan. Your scheme just got out of hand, and you panicked."
+He nodded slowly. "It was supposed to be just a couple of bank transfers, just to get the company solvent again. He would've never known it was me. But the back pay, the fines, and then the lawsuit... I needed money fast, I was thinking about just leaving the country and starting over, so I asked for cash, wrote him, saying he should drop the bag off in the park."
+"And when you started to think he wasn't about to go through with it, you got nervous, and came here."
+"I came here, to try and talk to him, give him some friendly advice. Of course, he didn't know it was me writing those letters, so he tried not to let on that anything was wrong. But when I tried to find out if he had the cash in the house, he put it together."
+I didn't need him to go on, I knew what'd happened then. Alan had come at him, and in the fight, Scott had grabbed the closest object, and ended up stabbing him. He sat the body back in the chair, did his best to search the house for the cash, then left, pretending to arrive later with the rest of the guests.
+
+
+
+I could have asked how he found out about Alan's secret.
+
+>ask about secret
+"How'd you find out about Alan's dirty little secret?"
+"People who have been around as long as him aren't exactly technologically savvy. His email password was sent unencrypted. Not to mention the fact that it was a five letter English word and easy to guess. I barely had to do any work at all to dig up something."
+
+Val opened the door noiselessly behind him. He was too absorbed in his rant to really notice. I had to make sure it stayed that way. She tiptoed behind him quietly on stockinged feet, her gaze never leaving him. She was holding something in her right hand, something slender and reflective. My heart was pounding away in my neck as I tried not to betray any sign that anything was out of the ordinary. Her walk was as painfully deliberate as a leopard making an ambush. Every step took an eternity.
+
+
+
+Val was almost within reaching distance of Scott now, and he somehow sensed it, turning his head around. His eyes went wild, and for a moment I felt like I could actually see his nerves fray and snap. His upper lip curled back over bared teeth so far it looked inhuman. He swung the revolver to point it straight at Val's serene face, and pulled the trigger. Her head was nowhere near the gun when it went off. She'd ducked to the side faster than I'd seen anyone move before, like Mayweather slipping a punch.
+
+When Scott tried to aim the gun at her this time, screaming an unearthly scream, her hands were already up in a blur. She let him get another shot off, which I thought was pretty charitable of her, except there didn't seem to be anything behind her eyes but cold fury. It seemed for a second like she'd disarmed him as the gun dropped to the floor. It took a long time to fall. Then I noticed in the dim light of the wine cellar a glint of silver attached to his neck, a small knife labeled with the initials "AHB." His now empty hands went to his throat, and he crumpled over. We listened to quiet gasping for a minute as Val came over to untie me from the chair. By the time she'd finished, it had stopped.
+(press any key)
+>topics
+I could have asked nothing.
+
+>ask alan about xxx
+That doesn't seem to be a topic of conversation at the moment.
+
+>l
+Wine Cellar
+The wine cellar had at first seemed like a display of hedonistic excess at first. A monument to one man's appetites and the material wealth to indulge every inch of them. Now, it was just another dank warehouse with a body in it.
+
+Scott's body was lying on the floor face-up, in a pool of blood.
+
+In the corner was a fuse box, partially obscured by shelves.
+
+>x scott
+I couldn't see any such thing.
+
+>ask body
+That doesn't seem to be a topic of conversation at the moment.
+
+>get up
+But I wasn't in anything at the time.
+
+>x box
+The box was sleek and black, nothing like the ones I'd seen in old city buildings. It was some sort of custom installation.
+
+The fuse box was switched off.
+
+>open it
+It wasn't something I could open.
+
+>switch box on
+I saw no reason to mess with it now.
+
+>l
+Wine Cellar
+The wine cellar had at first seemed like a display of hedonistic excess at first. A monument to one man's appetites and the material wealth to indulge every inch of them. Now, it was just another dank warehouse with a body in it.
+
+Scott's body was lying on the floor face-up, in a pool of blood.
+
+In the corner was a fuse box, partially obscured by shelves.
+
+>u
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>hint
+Objective
+
+I could take one last look around, or I could just wait for the sun to set, so Val and I could blow this joint.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>u
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>e
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window faced north, blocked by the closed shutter.
+
+
+
+
+>e
+
+Oak Room
+The room had a large white rug in the center, and a four-poster bed that looked nice enough that it might have once sat in the master bedroom. An ugly, expensive-looking valise lay on the bed, its weight sinking it a full six inches into the feathertop mattress.
+
+
+I could also see Nathaniel here.
+
+>talk to nathaniel
+>w
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window faced north, blocked by the closed shutter.
+
+
+
+
+>s
+
+Sumac Room
+There was something decidedly autumn about the decoration of the room, heavy curtains the color of cherries, and luxurious golden bed linens that looked like smooth parchment on the king-size bed.
+
+
+>n
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window faced north, blocked by the closed shutter.
+
+
+
+
+>n
+
+Hemlock Room
+The room had an angled ceiling to give the impression of a cozy attic or country cabin, except it was about as big as my entire apartment. Piles of climbing equipment and bunched-up coils of rope were heaped in the corner on top of his luggage. A gray sweater hung on a chair, flecks of dark reddish-brown stains dried on it.
+
+
+Jan stood here amid his piles climbing gear, coiling a long length of rope around one of his broad shoulders.
+
+>talk to jan
+>s
+
+East Hallway
+The eastern side of the upper floor led to several guest bedrooms to the north, east, and south. A window faced north, blocked by the closed shutter.
+
+
+
+
+>w
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>n
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>n
+
+Master Bedroom
+The master suite sat at the north end of the house and had a row of floor-to-ceiling paned windows that ran the length of the room, but the shutters were closed, keeping the room dark as night. A four-poster bed with a thick down comforter looked like it would sink at least half a foot under any weight. Ornate wooden nightstands flanked the bed on either side. One was bare except for a lamp, the other was piled high with what must have been bedtime reading. In the corner of the room, I could see into a spacious closet.
+
+A book lay on the nightstand.
+
+I could also see a wall safe (in which was a manila envelope (closed)) here.
+
+>read book
+Kokoro, by Soseki Natsume. The binding looked expensive and uncracked. A post-it note was stuck to the cover. Just two words were written on it: "I'm sorry."
+
+I started to flip through the book and noticed something handwritten on the title page. The cursive looked like it'd been written with a fountain pen.
+
+
+
+For Kelly
+     Somewhat appropriately, I got this book from my teacher, and now I'd like you to have it. More than whatever literary value it may have, from now on, I'll always remember it as the first book we read together.
+
+Yours,
+Alan
+
+>open manila
+I opened the envelope, and took out the contents, a handful of photos
+>; line break
+That noun did not make sense in this context.
+
+>x photos
+Several photographs of a blonde young man in his early twenties, taken with a telephoto lens. He hadn't spotted the photographer. He's wearing a shortsleeve polo shirt and jeans, so it must have been taken months ago. The man was holding a cup of coffee, and exiting a coffee shop. The daily routine must have made it pretty easy for whoever was tailing him. The height of the shots put the photographer in a car across the street. The photos looked dim and hazy, even for a black and white shot.
+
+>x photos
+Several photographs of a blonde young man in his early twenties, taken with a telephoto lens. He hadn't spotted the photographer. He's wearing a shortsleeve polo shirt and jeans, so it must have been taken months ago. The man was holding a cup of coffee, and exiting a coffee shop. The daily routine must have made it pretty easy for whoever was tailing him. The height of the shots put the photographer in a car across the street. The photos looked dim and hazy, even for a black and white shot.
+
+>l
+Master Bedroom
+The master suite sat at the north end of the house and had a row of floor-to-ceiling paned windows that ran the length of the room, but the shutters were closed, keeping the room dark as night. A four-poster bed with a thick down comforter looked like it would sink at least half a foot under any weight. Ornate wooden nightstands flanked the bed on either side. One was bare except for a lamp, the other was piled high with what must have been bedtime reading. In the corner of the room, I could see into a spacious closet.
+
+A book lay on the nightstand.
+
+I could also see a wall safe (empty) here.
+
+>read book
+Kokoro, by Soseki Natsume. The binding looked expensive and uncracked. A post-it note was stuck to the cover. Just two words were written on it: "I'm sorry."
+
+I started to flip through the book and noticed something handwritten on the title page. The cursive looked like it'd been written with a fountain pen.
+
+
+
+For Kelly
+     Somewhat appropriately, I got this book from my teacher, and now I'd like you to have it. More than whatever literary value it may have, from now on, I'll always remember it as the first book we read together.
+
+Yours,
+Alan
+
+>x it
+Kokoro, by Soseki Natsume. The binding looked expensive and uncracked. A post-it note was stuck to the cover. Just two words were written on it: "I'm sorry."
+
+I started to flip through the book and noticed something handwritten on the title page. The cursive looked like it'd been written with a fountain pen.
+
+
+
+For Kelly
+     Somewhat appropriately, I got this book from my teacher, and now I'd like you to have it. More than whatever literary value it may have, from now on, I'll always remember it as the first book we read together.
+
+Yours,
+Alan
+
+>s
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>w
+
+Bedroom
+
+
+I could see a memo and a bottle of bourbon here.
+
+>x memo
+Kid,
+You'll be hungry soon. Alan used to keep a personal stash behind a painting in the hallway downstairs. 
+
+Help yourself, I need you to stay sharp for this one. Or don't, your call.
+
+>x bourbon
+A bottle of Woodford Reserve. One of the better ways to pass the time, if I had to choose. It was still half full, if I had to be an optimist about something.
+
+>drink it
+I poured out a measure into one of the glasses on the nightstand and drank it slowly, letting it linger on my tongue.
+
+I thought about the idea that someone was just outside the window, trying to peer in, waiting the way a hunter sits outside a burrow. I thought about the three men I'd just met, and how I liked none of them. I thought about the man I'd seen in the chair with his eyes wide open, who didn't seem to mind that I was drinking his bourbon, since he didn't mind much of anything anymore.
+
+>drink it
+I went back to the bottle and poured again, more generous this time. I listened to the sound of something between snow and frozen rain pattering against the window. I listened to Val's steady breathing. She was either asleep, or thinking just as hard as I was. I stared at her back a long time, trying to decide if I wanted to talk to her.
+
+>drink it
+I wasn't feeling especially drowsy.
+
+>sleep
+I wasn't feeling especially drowsy.
+
+>l
+Bedroom
+
+
+I could see a memo and a bottle of bourbon here.
+
+>e
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>w
+
+Bedroom
+
+
+I could see a memo and a bottle of bourbon here.
+
+>x bourbon
+A bottle of Woodford Reserve. One of the better ways to pass the time, if I had to choose. It was still half full, if I had to be an optimist about something.
+
+>drink bourbon
+The bottle beckoned, but I had a rule about not having the same thing for two meals in a row.
+
+>; nice
+That noun did not make sense in this context.
+
+>e
+
+North Hallway
+The northmost section of the upstairs hallway led to a couple of guest rooms. West of me was a bedroom, and straight ahead to the north was the master bedroom.
+
+>s
+
+Upstairs Hallway
+I stood in a normal-sized hallway that seemed cramped compared to the dimensions of the rest of the house. The hardwood floor was just as polished as the one downstairs. To the east were a couple of the smaller rooms clearly intended for overnight guests. To the north was another bedroom, and a set of double doors that led to the master suite.
+
+>d
+
+Downstairs Hallway
+A long narrow corridor connected the entrance of the house with the bedrooms. Lights were recessed into the ceiling overhead, shining down onto the polished wood floor. Maybe some people liked this sterile modern crap, but it made the place look like an art gallery, as far as I was concerned. A couple of paintings even adorned the walls, so maybe that was the idea, and I was just uncultured.
+
+>w
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>w
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+>w
+(first opening the front door)
+It seemed to be locked.
+
+>w
+(first opening the front door)
+It seemed to be locked.
+
+>open door
+It seemed to be locked.
+
+>break door
+Violence wasn't the answer to this one.
+
+>x door
+A large wooden door, painted white as a preacher's picket fence. It didn't have a window or peephole. Something seemed odd about the lock, like it had been damaged. There was splintered wood on the side of the doorframe where someone had apparently forced the door open.
+
+>unlock door
+What do you want to unlock the front door with?
+
+>i
+I was carrying:
+  a photos
+  some cash
+  a glass shard
+  a cell phone
+
+>e
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>u
+
+Reading Nook
+I climbed the stairs to the reading nook. Shelves lined the walls of the small room, and a couple of books had been knocked off them onto the floor. A pair of wingback armchairs faced each other with a coffee table in between. A small pool of red liquid lay underneath the table.
+
+A man sat in one, slightly paunchy and slightly grey, his eyes and mouth wide open. His glasses were askew. He was wearing a navy blue cardigan, stained all over the front with a dark, almost black liquid. What looked like a small knife was sticking out of his neck, plunged in so far that only the handle was visible.
+
+An antique wooden radio sat on the table.
+
+I could also see a bottle of wine and a wineglass here.
+
+>hint
+Objective
+
+I could take one last look around, or I could just wait for the sun to set, so Val and I could blow this joint.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>
+I beg your pardon?
+
+>s
+I couldn't go that way.
+
+>z
+The shutters clicked open, the most musical sound I'd ever heard in my life.
+
+>w
+I couldn't go that way.
+
+>s
+I couldn't go that way.
+
+>d
+
+Greatroom
+The greatroom was clearly where the occupants of the house were meant to spend the majority of their time. Tall, dark wooden rafters criscrossed the high ceiling, the exposed beams meant to evoke a Swiss chalet.
+
+A large L-shaped sofa was arranged around a huge rug. A dark wine stain was conspicuous on the armrest, standing out on the white fabric. Everything in the room faced a gray slate fireplace. 
+
+A small spiral staircase in the corner led up to a reading nook, which was open to the greatroom, separated by a wooden balustrade.
+
+I could see a broken wineglass here.
+
+>w
+
+Foyer
+I walked into the spacious foyer, trying not to walk into the large lacquered wood screens in front of the door. The shiny black surfaces were decorated with an intricate picture in gold paint, depicting a Chinese court scene. It seemed at odds with the exterior of the house, but matched the rest of the decor; the interior was a mixture of Old World furniture and Asian influences. 
+
+
+>w
+(first opening the front door)
+
+Front Porch
+Steps led up from the gravel driveway to the porch. Narrow unpainted wood planks extended the length of the house, along with windows that looked into rooms at the front. Through them, I saw blinds, and a glint of something metallic, like a shutter.
+
+The front door stood open.
+
+>w
+
+Driveway
+We stood at the end of a long gravel drive, staring up at a large house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place, wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it had to.
+
+Val's Mercedes was parked to one side of the driveway.
+
+I could also see Val here.
+
+>talk to val
+>enter mercede
+I couldn't see any such thing.
+
+>enter mercedes
+I walked to the Mercedes and she and I looked at each other over the roof. I didn't realize I was on the driver's side until she tossed me the keys.
+
+Your friend Alan seemed like quite a romantic. Thing like that gets a guy in trouble."
+"We all have things we'd rather not let go of. Even you."
+"Like that?" I pointed to the gold ring on her necklace, which had come into view, resting on the front flap of her coat. She gave me a hard look, and for a second I'd thought I'd crossed the line. Then, a smile broke out on her face.
+"C'mon, drive. I'll tell you the whole story on the way.
+ 
+"So where we headed?"
+"What was the last time you were in Vegas?" We got in, and I started the car.
+
+We started off down the road and we began to really talk for the first time since I'd met her. We started off down the open road, in the shadow of the mountain, high above the valley and its waves and ribbons of untouched snow like an unmade bed. 
+
+I was already getting thirsty, and no quantity of expensive bourbon was going to help.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> ; ok this was overall good
+Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> ; but a lot of blank responses. Fortunately, they can be fixed
+Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> undo
+Driveway
+[Previous turn undone.]
+
+>about
+A word from the author:
+This work would not have been possible without help from a great many people. Special thanks to my testers: FK, TF, KG, DO, caleb, inurashii, Sequitur, matt w, and busterwrites, and all the patient folks in #i7 on the IFMUD.
+This story has many edge cases. If you believe you have found a bug, please send an email to: alongdrink@beyondcoast.org
+
+Cover art by Dan Smith Licensed under Creative Commons By 2.0 Image at: https://flic.kr/p/pPkjHD License Terms at: https://creativecommons.org/licenses/by/2.0/ 
+
+Thanks for playing.
+>hit
+What do you want to hit?
+
+>hint
+Objective
+
+It was time to go. I never wanted to see the inside of that house again.
+
+Clues
+
+bottle of wine
+
+stain on Greatroom sofa
+wineglass
+
+knife
+lock
+
+book
+bank statement
+cash
+brake line
+
+
+
+Command Help
+
+exits: List exits
+talk to (name): start conversation
+stop talking: end conversation
+topics: list dialogue choices
+save: save progress
+restore: load savegame
+
+>

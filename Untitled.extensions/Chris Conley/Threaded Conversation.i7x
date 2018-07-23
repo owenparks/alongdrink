@@ -1168,9 +1168,9 @@ Book II - Changing The Subject
 
 Understand "topics" or "change the subject" or "change subject" as changing the subject. Changing the subject is an action out of world.
 
-[Check changing the subject (this is the subject change default rule):
+Check changing the subject (this is the subject change default rule):
 	if the number of repeatable quips is 0:
-		say "[We] [can think] of no valid changes of subject right [now]." (A) instead.]
+		say "[We] [can think] of no valid changes of subject right [now]." (A) instead.
 
 [Carry out changing the subject (this is the standard report other subjects rule):
 	carry out the listing peripheral quips activity.]

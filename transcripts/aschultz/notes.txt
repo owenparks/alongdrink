@@ -1,0 +1,7 @@
+I think there are some neat technical things you can do, like a different response to a blank command.
+
+Probably the big thing I think can be fixed are blank conversational responses. This is something that stings a lot of people in the parser. I know about it, and I still wind up doing not so well.
+
+Val doesn't do anything, sometimes, and while that's in tune with the stoic tone, I was wondering if I needed to do anything with Jan and Nathaniel. This bogged me down when I was close.
+
+Also in the big picture I might also divide the help into HINTS, CLUES and VERBS. It got a bit long as-is. It would also be neat to have a MISSED section at the end that could point you to other clues. I had a feeling I might have missed a few.

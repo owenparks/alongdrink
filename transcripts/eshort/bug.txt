@@ -1,0 +1,8 @@
+    > x papers
+    I thumbed through the pile on the desk, finding term papers and dissertations, collections of academic journals. Underneath most of it was something that caught my eye, a document with dollar signs on it and more zeroes than I’m used to seeing on paper.
+
+    > x document
+    I couldn’t see any such thing.
+
+    > search papers
+    I found nothing of interest.

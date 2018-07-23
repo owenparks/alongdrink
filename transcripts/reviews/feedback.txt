@@ -1,0 +1,184 @@
+Feedback: A Long Drink
+Writing is not too fluid, and lacks the emotion and urgentness of a murder happening
+right in front of you.
+-
+A fairly ambitious game, but lots of implementation issues. It's playable to completion, but I think I
+missed a certain amount of conversation choices (e.g. I couldn't talk to Nathaniel or Scott at all). Also it
+didn't really feel like I solved a mystery, more like I explored some convo trees and did what I was told to
+do.
+-
+the triggers were often hard to find and NPCs didn't
+respond to things that seemed pretty major.
+-
+the work is just
+woefully underimplemented. My wrist is sore, but I can't examine my wrist, for example. Val refers to the
+mountain and to a friend of hers, but I can't ask her about either. Liquid isn't implemented. Cardigan isn't
+implemented. I could go on and on, but you get my point. I am the kind of player who likes to examine
+everything, so I felt very thwarted! I was most frustrated in the scene where I went back to the car and I'm
+instructed to examine everything, but nothing I tried to examine was implemented.
+-
+
+- then val driving I hit a blockshe doesn’t respond, car not implemented
+
+- I’m supposed to “wait”I don’t know what’s happening, prompted to ask about “my file” and now I can’t.
+
+- “We stood at end of driveway” but Val is not there? The house is not something I could enter. waiting doesn’t work now.I’m having to lead val to where I don’t know. She should be prompting me since I was asked to follow her.
+
+- Puddle, Art, chinese art, court scene and persian rug not implemented but specified in description.
+
+- I’m to keep going east, but this is not prompted, and not listed as an exit.
+
+- I try to leave, the car we just drove here in has disappeared.
+
+- SMELL STAIN should make clear if it’s blood or wine.
+
+- Remove I beg your pardon error message 
+
+- ”Description for reading nook always starts with “I climbed the stairs to the reading nook” even though I’ve been there examining
+things.
+
+- Dicey grammar: I heard the front door open, and the sound of voices from the foyer. It closed a
+minute later.(the door or the voices?)
+- Val and I glanced at each other across the dead man, and she left
+back down the stairs.(left is ambiguous for “exited”)
+
+- Press Any Key this time just gets me a bare prompt,
+shouldn’t something happen? Three random new characters who stand there waiting for me to direct the
+narrative.
+
+- Scott’s description starts with “Scott Gage, on the other hand,...” whether I examine him first or
+not.
+
+- I’m going east...I have to leave for them to start conversing?  What about when I enter?
+
+- Why do I have a solid alibi? Don’t ever use “press any key” without anything happening...that should be like a fade out
+in a movie where something interesting happens next.
+
+- “I walked into the spacious foyer, trying not to walk into the ...” watch repeated words.Oh god there’s a few hours of this?What circle val????
+- Threaded conversation problems
+- This sentence is kind of awful: “She gave me a sharp look. I could tell it got a lot of use, it was just as practiced as everything else about her. Here was a woman who wasn’t afraid to throw her weight around, and made it a bad habit to force her to do it.”She
+hired me and now the house is locked down?
+- I can ask about nathaniel and alan, but
+jan isn’t a topic.
+- East from greatroom is an undescribed exit.
+- “I was starting to feel tired. Everything that had happened in the past few days was finally starting to
+take its toll. I thought it might help to find a bedroom and sleep for a few hours.” over and over.
+- paintings on walls not implemented.Ignoring that, I get a computer which is done with a Menu extension
+- Some emails say “stuff” like it’s a placeholder.“Urgent Request” sent email won’t open with no explanation
+- Can’t ask val about bedroom, cannot find a bedroom. quit.
+
+- "unbuckle" worked, but "unbuckle seatbelt" didn't, which confused me for a while. I liked the interaction
+with the computer, and that you included background emails that you would expect the character to
+actually have received. 
+- Also the detail with the box at the bottom of the stairs was nice.
+-
+I encountered a lot of bugs and odd implementation issues such as LOOK descriptions of rooms retaining
+"As you enter..." text and unimplemented objects. It's hard to evaluate the base story due to this, but
+checking the search history autocomplete was a great touch.
+-
+- I never figured out who Val is to me, how I became a vampire, what Alan's secret was, etc. 
+- Was Alan a vampire too?
+- I tried to "follow Val" into the chalet and I ended up with the
+following:> follow valWhat would I like to discuss: about Val, about questioning Val or about my file?>
+discuss valThat doesn’t seem to be a topic of conversation at the moment.> discuss about valWhat would
+I like to discuss: about Val, about questioning Val or about my file?I feel like I have a lot of questions for
+Val and that it would've been appropriate to tell her about my accident, but I don't appear to have any
+options to do that.
+- Can’t sit on sofa.
+- Do I know these people already? I know their full names though it
+seems like this is the first time I’ve met them.
+- Master bedroom mentions bed in great detail but it doesn't appear to be implemented.
+- Bank statement still shows up in Library after it is taken.
+- I can take fuse box and carry it around.
+- Can't see Scott's body. 
+- Val disappears after fight without warning.
+-
+Full review at https://heterogenoustasks.wordpress.com/2015/02/24/parsercomp-sunburn/
+-
+Fair warning: I didn't complete this game. The unclued exits make searching around for navigation pretty
+
+tedious, and it's obviously incomplete. Some rooms had no description, there is narrative text missing,
+synonyms aren't hacked out very well and the game doesn't credit the player's creativity. These are all
+polish problems, not fatal ones, but it definitely makes the game frustrating to play. The prose is pretty
+strong, with a nice hard-boiled vibe. I really like the past-tense descriptions which made it sound like a
+story being told to someone. But, there's no real context for what happens, and the characters are
+curiously dispassionate. (e.g. Val shows zero emotion that your character nearly died in the opening
+scenes.)I've described some problems I found below.Bugs/Issues:- Often I'd have to "(press a key)" to
+continue after a paragraph, only to have the game drop me right to a command prompt. No need to pause
+after exposition when there's nothing more to say.- Many objects were described, but couldn't be
+examined. - The shutters closed on the house with no explanation. Who did that? Why was it possible?-
+Room descriptions (e.g. The Foyer) start with "You walked into..." Doesn't work if I've been standing in
+the room for awhile and then decide to refresh my memory of my surroundings. - Exits are almost never
+signalled in room descriptions or otherwise. How do I know where I can go?- The Dec 18 e-mail from
+payroll just said "Stuff"- Email to Val didn't appear on a new page- The computer doesn't remain on after
+using it- The autocomplete mechanic is too heavily clued, and too lightly implemented.- Several room
+descriptions are incomplete.- When I found the bedroom and slept, the text assumed an event that was
+never described: that Val was either sleeping in the bed already or had come in at some point.- Adrian
+shows up with no fanfare, no rousting or introduction. No title (until you examine him.)
+-
+Vampire detective is a pretty cool idea, but unfortunately the game's implementation didn't do it any
+favors. Although there were topics listed for NPC dialog (which is very much appreciated), actually using
+them was sometimes a challenge, because what you typed had to match what was on the screen pretty
+exactly (or in some cases, I had to guess what the right translation was). There were a great many
+unimplemented objects, which progressively weakened my confidence in the game overall. Searching the
+car was a real guessing game. And exits weren't listed in the room descriptions (although I am glad you
+added an EXITS command to help compensate).I also saw a few outright bugs: 1) Scott supposedly being
+in an upstairs bedroom, only I couldn't interact with him at all (privately-named something else,
+perhaps?); 2) a key item in the sent-mail folder was unopenable; 3) Scott's body at the end being
+impossible to interact with (I saw the walkthru later with the note about scott_body, so obviously you
+know about this).Anyway, I think this was a pretty decent effort with a clever idea at its heart. I would
+recommend getting much more thorough testing. Experienced IF players will be able to very rapidly tell
+you where your implementation falls short.
+-
+This started out as a really ambitious, intriguing game. First person/past tense is an interesting decision
+here - helps with the hardbitten detective tone that opens the story. May be a touch cliched but I was
+drawn in immediately. Amused by "I was not a professional driver, nor was this a closed course...." The
+writing across the board is very good.However, the further I got into the game, the less well-implemented
+it became - no description at all for one of the bedrooms, minimally implemented kitchen, minimal
+implementation in other bedrooms, etc. Many things I wanted to try - such as giving the cash or photos to
+Adrian - received no response at all. Nathaniel and Jan were minimally implemented in their bedrooms,
+and I was unable at all to interact with Scott in the Sumac Room. I loved where you started with this game
+and it was disappointing to grind to a halt. Please do a post-competition release!
+-
+I was mostly able to brute-force this game. That's good, because it was generally pretty helpful and
+roughly helped me with what to do, but bad because, well, I needed to. The hints were nice and not too
+obvious. So I think you have a good sense of balance and pacing.The 2 for the puzzles is due to it being
+hard to find what part of the car to search to determine it was sabotaged. Otherwise there's a lot to like
+here.The writing was fun and probably 3+ so though I didn't give any 4's, I think my 3's were generally
+closer to 4 than 2. While noir has been a bit played out, I still like how this gave a big enough world but
+not too big you were lost. The one big problem I'd fix is unresponsive PCs in the east wing.
+
+-
+Colloquial. Foul language. Bad style. Poor command responses.Missing characterisation.HELP/HINT.
+No walkthrough. Clues in descriptions. Logical. Missing challenge.Missing object synonyms. Missing
+scenery. Missing responses. Poor responses. Indiscriminate keyword matching is cheap.Linear, little
+implemented, plays like speed-if (but full game expected). Needs beta testing.GargoyleAn Interactive
+Mystery by Owen ParksRelease 7 / Serial number 150214 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N)
+"desk being in the cards for me" - mixed metaphor."I guessed I could still do that" - awkward in this
+tense.Tense seems imprecise in intro.Instruction to judge how well-written work is collides with probable
+vernacular whichisn't fine writing.HELP. A big white space appears under "Clues". Objective: ... It's risky
+to providecrucial information under an optional command - the player can miss it and be lost in the
+dark.Command Helpexits: List exits - terse to the point of obscurity. Exits from/of what? Is "List" a
+name?- Is there a "command" in this sentence? How does it provide command help?> x cellA smartphone
+a few hardware revisions back. The cell phone was switched off.> switch smartI couldn’t see any such
+thing.- synonyms> x carI couldn’t see any such thing.> x weatherI couldn’t see any such thing.- scenery>
+talk to valI wasn’t talking to anyone right then.- weak response> switch radioIt wasn’t something I could
+switch.- towards so bad it's good. Marginal, character voice, allow.not a professional driver- aren't police
+trained for high speed driving?Accepting anything at the hairpin is cheap.> x carThe seat belt held me
+firmly in place in what was now the bottom of the upturned_car.> gdrthdty carThe seat belt held me
+firmly in place in what was now the bottom of the upturned_car. I wasn’t going to be able to see or do
+much of anything until I unbuckled myself.Keyword matching is cheap. POLICY: What if doing
+something sophisticated which only LOOKS LIKE keyword matching? Accepting too much. User find
+out from typos.evergreen forest- not in moonlight> kick(the cell phone)> - missing response> kick
+passenger window> - missing response> talk valI wasn’t talking to anyone right then.> talk to
+valVal_embark did not respond.> x youI couldn’t see any such thing.> talk to valI could have asked about
+her car, about the chalet or about sunrise.> ask about car“Nice ride,” I said.“You should have called,” Val
+replied, ignoring my comment.I could have asked about the chalet or about sunrise.> tell about cellThat
+doesn’t seem to be a topic of conversation at the moment.There was something about the door that looked
+like a B&E job.- what's B&E?DrivewayWe stood at the end of a long gravel drive, staring up at a large
+house with a dark red wood exterior. Steps to the east led to a porch that spanned the facade of the place,
+wrapping around to a deck in the back that presumably had a great view of the lake and the countryside. It
+was more ski lodge than cabin, and looked like it could comfortably shelter an entire biathlon team if it
+had to.- what direction is anything?>follow ValWhat would I like to discuss: about Val, about questioning
+Val or about my file?>wThat doesn't seem to be a topic of conversation at the moment....>x rugI couldn't
+see any such thing.

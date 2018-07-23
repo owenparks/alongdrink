@@ -1,0 +1,56 @@
+- When Val turned up, she acted like I should be expecting her, but I had no idea why. I didn't understand why she was driving us to the particular cabin she was taking us to.
+
+1) I've quit my job on the force and I'm driving, but I don't know where I'm going or what I expect to do there. It seems to be urgent, but I don't know why.
+2) I go off the road, whereupon I struggle a bit with the parser to get out of the car.
+3) I return to the road, where a car pulls up and someone called Val encourages me to get in. Why is she here? Did I miss a step where I was supposed to signal her to fetch me? Does she somehow know I'll be here anyway? For that matter, who is she? On the one hand, the narrator appears to recognize her; on the other hand, he gives me this description:
+
+...which sort of suggests that he doesn't really know her that well, since he can offer no details about her other than physical features that he seems to be notice as if for the first time ("The first thing I noticed...", "...for all I knew..."). It does hint that she's a bit sinister ("unnatural", the ambiguity about her age, the un-reassuring reference to Venetian masks). It's a noir-styled description that (to me) reads as "you have just met the femme fatale".
+
+And then, I fear, the last sentence is so structured that it made me imagine the protagonist kicking Val in the face, so I needed to put on the brakes and reparse. An unfortunate application of period slang, at least to my ear. But that's beside the point.
+
+4) We arrive at the house and she tells me she's going to introduce me to Alan. At this point I'm getting increasingly nervous about plot clarity. I now really have no clue what is happening at a social level, and the story keeps ratcheting forward as though I do know. Why are we at this cabin? Who is Alan with respect to me or to Val? Did Val bring me here just because she thought it was a sensible place to go after I've had a crash, or because we need shelter from the weather? Is this where I was going earlier or is it a different place, and if it is where I was going earlier, why was I going there if I don't know the host?
+
+I get a look around the driveway here, with a room description that begins "We stood... (etc.)", but Val has apparently gone indoors at this point; I can't talk to her now. Fair enough; I follow her in. When I find her, she drifts further into the house. I try to follow. I walk into the Greatroom, where there's a stain on the carpet. I look at the stain and see this:
+
+Note that at this point I have not found the body yet and I am now in this room by myself. The narrative I've seen so far has set this up as though my presence here somewhere between a social call ("let me introduce you") and a crime scene investigation (from this bit of description) even though the main thing I know about myself is that I just quit the police force and had a car accident. It now feels like I'm still supposed to be looking for Alan but also as though I'm supposed to be investigating a crime that hasn't been clearly established for me yet.
+
+5) I go upstairs, where I find the body; I examine it and Val turns up and introduces the corpse as Alan. We get this bit of description:
+
+Her eyes narrowed, and I could tell her mind was racing, the first time I’d seen anything but placid boredom on her face. Half of me was relieved to know that there was something in this world that could perturb her.
+
+
+...which suggests that, contrary to the earlier bits of narrative, I have known Val for a while. Or is it just that she's looked bored during the whole car ride up here? Maybe the latter, but if so, that seems like not that much time from which to draw any conclusions about her character.
+
+Meanwhile, I've retroactively concluded that the bit in (4) about looking for any clue I can find was narration probably meant to happen *after* I've learned about the body; so there's perhaps some bugginess about presenting information in order.
+
+6) I try talking to Val, but she's too stunned to talk to me. I am not really sure of my goals in this moment, but the main indicators I have concern looking for clues, so fine. I start looking around, but mostly find that things that seem potentially important, like a pool of spilled liquid, are apparently not implemented. I do find one or two other items that do have descriptions, but I have too little info to really fit those into part of a mental pattern about what's going on.
+
+7) After a while (perhaps on a timer, perhaps after I've done a certain amount of stuff, but not apparently tied to my finding anything specific) I hear someone arriving, at which point Val leaves the room. I follow her back down to the foyer and get (after the main room description)
+
+Quote:
+Three men stood on the rug, their coats and pant cuffs damp with snow. Val made introductions all around, as if nothing was wrong.
+
+I studied their faces carefully. If one of them knew about Alan upstairs, they weren’t letting on. The three men were overdressed for vacation, as rich men often are. But somehow, they were oddly mismatched. I doubted that they came here together.
+
+I could also see Nathan, Scott and Jan here.
+
+
+So, okay: I don't know what Val or I are doing at this cabin to start with, and we've just introduced three new characters, potentially suspects, but I also do not know what THEY are doing here, whether they were expected, etc. It would probably have been pretty useful to have heard Val's introduction in direct speech -- at least then I'd have some clue how these figures relate to me or I to them.
+
+If I look again, this text is repeated verbatim, the bit about Val introducing everyone having been baked into the room description. Talking to these characters doesn't get a response. Looking at them does give me a description, mostly about the fashion sense of each man, but I have this weirdly suspended sensation of being in the middle of a diorama -- this moment is framed as a moment of social interaction but everyone just stands there for a number of turns on end waiting for something to happen, and I don't know what that thing is supposed to be. Finally I try talking to Val rather than one of the other three -- which turns out to be the necessary next step, the one that triggers pages of further dialogue and exposition. Val tells them that I'm going to investigate because of my police background. They leave. I try talking to Val a second time, and the result is that shutters come down over the outside windows. Then I'm offered some further questions I can ask Val, which provoke answers about "the Circle," among other things. She also reminds me that I owe her one, but I'm not quite clear on whether that means I owe her one for rescuing me from the snow just now, or because of some other, also-undisclosed bit of backstory.
+
+So here's the situation I'm now in. I am supposed to investigate this murder, but the main person who will talk to me makes references to things I'm evidently expected to understand (as the protagonist) but for which (as the player) I have no referents. The social landscape is a near total blank for me -- and while you may say that's not important operational knowledge, my genre expectations from murder mysteries suggest that the relationships between suspects are exactly the kind of thing I should know or be trying to find out. So the fact that the game treats the protagonist as knowing more of this than the player makes me pretty nervous. (Contrast Gone Home: whatever other secrets are withheld, the player is given the "you're just back from abroad and your mom and dad and sister live in this house" information pretty much right away.)
+
+Meanwhile, I've been given confusing pointers about whether to trust anyone or how well I know Val. Both social interactions and physical interactions appear to depend on my finding the right thing to do next out of an array of apparently equally valid tasks. Information appears to be presented out of order some of the time. Key exits also aren't necessarily mentioned in room descriptions: it took me a while to realize I could go east from the Greatroom, which left me wandering all over the place wondering where all the NPCs had gone after the arrival scene. Had they just vanished into the ether? I did eventually discover that EXITS was implemented, but only after I'd reached a point where I was feeling really lost and gone to HELP.
+
+So at this point my fiction model ("what is happening in this story?") and my mental understanding of the world model ("what is likely to be implemented here?") both feel really broken, so I can't use one to help me deal with gaps in the other. And from there I wander around for a while looking at things and getting more and more confused before I finally give up.
+
+*
+
+Playing it through a few more times just now in order to write this up, I see that if you type HELP early enough, you get a line about how you were going to the cabin to meet Val and her friends, and it's implied that that's still where you wind up later. That would have clarified a little (though not completely solved everything) had I encountered it the first time as part of the main narrative, but since I didn't get around to asking for help until some turns in, I never saw that in playthrough 1.
+
+A lot of what I just described isn't really even about game design per se, but about the sequence of available information in a story. The gaps are just made more vital because it is a game and because you're asking the player to be constantly developing and acting on their understanding of the fictional model and the world model. You can get away with a bit more in a movie because the movie doesn't stop playing the instant a viewer gets confused (though it is possible to lose their patience eventually, of course).
+
+I bring up the movie point because I feel like a lot of the writing in A Long Drink is very cinematic in its conception: emphasis on the visual elements of a scene, characterization through physical detail, reduced access to the interior thinking of any of the characters. One of the good things about that is that it does lead to a lot of really specific description, and I caught glimmers of what I think was the intended style for this game; I found myself picturing some of the scenes in a stark black-and-white film.
+
+In any case. As to your "how do I know if this is a problem?" question -- speaking purely for myself, a lot of writing gentle exposition for interactive fiction is about a) trying to play the game while forgetting as much as possible that I already know the story, and trying to assemble the narrative afresh through the order in which mandatory, unavoidable text is shown to the player; and b) paying attention to anything a beta-tester calls out as confusing. I try to follow the rule that if a piece of information is critical to the player's enjoyment of my story, then that information needs to be on the critical path, a thing they cannot possibly not see or not learn if they do a minimum walkthrough.
